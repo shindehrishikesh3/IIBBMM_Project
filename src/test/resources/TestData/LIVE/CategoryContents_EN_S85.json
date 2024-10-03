@@ -1,0 +1,104 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "Cylindrical Core Ferrites",
+			"TITLE_LINK": "c/passive-components/emc-rfi-suppression/ferrites-ferrite-assortments/cylindrical-core-ferrites",
+			"CONTENT": "We offer Cylindrical Core Ferrites with outer diameter from 0.75mm to 146mm, and length from 1.2mm to 200mm.<br>What are core ferrites?<br>In electronics, a ferrite core is a type of magnetic core made of ferrite on which the windings of electric transformers and other wound components such as inductors are formed. It is used for its properties of high magnetic permeability coupled with low electrical conductivity (which helps prevent eddy currents). Because of their comparatively low losses at high frequencies, they are extensively used in the cores of RF transformers and inductors in applications such as switched-mode power supplies, and ferrite loop stick antennas for AM radio receivers.<br>There are two broad applications for ferrite cores which differ in size and frequency of operation: signal transformers, which are of small size and higher frequencies, and power transformers, which are of large size and lower frequencies. Cores can also be classified by shape, such as toroidal cores, shell cores or cylindrical cores.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"inductors": "c/passive-components/inductors",
+				"RF transformers": "c/transformers/wideband-rf-transformers"
+			}
+		},
+		{
+			"TITLE": "Ferrite Assortments",
+			"TITLE_LINK": "c/passive-components/emc-rfi-suppression/ferrites-ferrite-assortments/ferrite-assortments",
+			"CONTENT": "We provide design kits made by some of our ferrite manufacturers, to allow both testing and designing for various applications and ferrite types.<br>The Würth Elektronik 742711 is an Anti-EMI Design Kit with patented key technology, for 2.5 to 27mm diameter cables. Suitable for STAR-Series snap ferrites. In a sturdy metal case, completely labelled. Ideal for design and test purposes. Perfect for use in EMC labs.<br>The EMI ENG KIT 02 from KEMET is a B-20 series bead EMI cores kit. It includes in total 180 ESD-SR series snap-on EMI cores (20 each of 9 values). KEMET B-20 Series bead cores are designed for use on round cable. The wide range of manganese zinc (MnZn) and nickel zinc (NiZn) options allows for targeting of specific frequency ranges.<br>Use the kit to address issues of noise or electromagnetic interference (EMI) in circuits or systems.<br>The Würth Elektronik 742793 design kit includes SMD ferrites for inrush peak currents. It contains WE-MPSB Power Supply Bead, WE-PBF Ferrite Bead, WE-SUKW SMT EMI Supply 5-Hole Ferrite Bead, and WE-CMS Beads.<br>The Fair-Rite Expanded Cable and Connector EMI Suppressor Kit is the manufacturer’s most popular engineering kit. As the name implies this kit provides a broad sampling of suppression cores specifically designed to attenuate EMI between all types of cable connected systems. To assemble the split cable suppression cores, polypropylene cases and steel clips are included in this kit.<br>The MuRata EKDMGN09-KIT contains 1420 pieces of LQP02HQ Series Power Inductors.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Würth Elektronik 742711": "c/passive-components/emc-rfi-suppression/ferrites-ferrite-assortments/ferrite-assortments?brand=wurth-elektronik"
+			}
+		},		
+		{
+			"TITLE": "Radial Leaded Common Mode Chokes / Filters",
+			"TITLE_LINK": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/radial-leaded-common-mode-chokes-filters",
+			"CONTENT": "We offer Radial Leaded Common Mode Chokes and Filters with inductance values from 350nH to 208mH, and DC current ratings from 100mA to 75A.<br>What is a Common Mode Choke?<br>A common mode choke is an electrical filter that blocks high frequency noise common to two or more data or power lines while allowing the desired DC or low-frequency signal to pass. Common mode (CM) noise current is typically radiated from sources such as unwanted radio signals, unshielded electronics, inverters, and motors. Left unfiltered, this noise presents interference problems in electronics and electrical circuits.<br>How do Common Mode Chokes Work?<br>In normal or differential mode (single choke), current travels on one line in one direction from the source to the load, and in the opposite direction on the return line that completes the circuit. In common mode, the noise current travels on both lines in the same direction.<br>In common mode, the current in a group of lines travels in the same direction so the combined magnetic flux adds to create an opposing field to block the noise. In differential mode, the current travels in opposite directions and the flux subtracts or cancels out so that the field does not oppose the normal mode signal.<br>How do I choose a Common Mode Choke?<br>The main criteria for selecting a common mode choke are:<br>Required impedance: How much attenuation of noise is needed?<br>Required frequency range: Over what frequency bandwidth is the noise?<br>Required current handling: How much differential mode current must it handle?<br>Radial leaded components<br>Radials differ from axials in that the leads exit from a common side of the component, rather from opposite ends or sides. This gives the radial a vertical profile and a smaller printed wiring footprint.",
+			"HYPERLINK?": false
+		},		
+		{
+			"TITLE": "SMD Common Mode Chokes / Filters",
+			"TITLE_LINK": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/smd-common-mode-chokes-filters",
+			"CONTENT": "We offer SMD Common Mode Chokes and Filters with inductance values from 0.245nH to 100mH, and DC current ratings form to 35mA to 1kA.<br>Below are examples of some of manufacturers’ product ranges:<br>Murata offers their DLW31S range of high-performance wound type SMD Chip Common Mode Choke Coils. With high common mode impedance, they are suitable for noise suppression through a wide frequency range.<br>Suitable for noise suppression in car area networks like CAN bus<br>-40 to 125°C Operating temperature range<br>Also used in applications like Industrial, Communications & Networking, and Safety.<br>Coilcraft offers their 0805USB series common mode chokes. This Series was designed for common mode noise suppression in high-speed differential signal lines (USB2.0, IEEE1394, and LVDS) and provides up to 3.4GHz differential mode 3dB cutoff frequency. They provide up to 2kOhm common mode peak impedance and more than 30dB common mode noise attenuation.<br>Bourns SRF3216 Series of common mode chip inductors feature high impedance values, current ratings to 400mA, and are RoHS compliant.<br>Applications include noise suppression, personal computers, and display panels.<br>Abracon’s ACMP-5025 Series of power common mode chokes are commercial grade and PPAP ready. They have excellent impedance characteristics, and rated currents up to 6.5A. They have extremely low DCR.<br>Applications include DC power line common mode noise suppression, switch mode power supplies and regulators, variable frequency drives, and AC/DC power rectifiers.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"DLW31S": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/smd-common-mode-chokes-filters?brand=murata",
+				"0805USB series common mode chokes.": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/smd-common-mode-chokes-filters?brand=coilcraft",
+				"Bourns SRF3216 Series of common mode chip inductors": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/smd-common-mode-chokes-filters?brand=bourns",
+				"Abracon’s ACMP-5025 Series": "c/passive-components/emc-rfi-suppression/common-mode-chokes-filters/smd-common-mode-chokes-filters?brand=abracon"
+			}
+		},
+		{
+			"TITLE": "SMD Toroidal Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/toroidal-inductors/smd-toroidal-inductors",
+			"CONTENT": "We offer the following SMD toroidal inductor ranges from our selection of manufacturers:<br>Bourns offers a range of RoHS compliant high current SMD toroidal inductors for DC-DC converter inputs and outputs and industrial electronics applications. They are found for example in power supplies for portable communications equipment, camcorders, and LCD TVs.<br>The Coilcraft SPT Series of high current surface mount (SM) toroidal power inductors have very high current ratings - up to 12.2A. The toroidal construction provides magnetic shielding that eliminates EMI and allows for closer component placement.<br>Very high current ratings - up to 12.2A Isat<br>Toroid winding virtually eliminates stray electromagnetic emissions<br>Flat top and self-leaded design for reliable surface mounting<br>The Murata 8300 Series is a range of miniature, surface-mount power inductors. They are designed for use in power applications with restricted PCB space and height, such as handheld devices, DC-DC converters, and notebook computers. The products are supplied in tape and reel for high-volume, automated surface-mount assembly.<br>Pulse Electronics’ shielded toroidal inductors are available in surface mount (SMT) construction types complete with a toroidal ferrite core. These toroids serve as versatile multi-use platforms for single and dual winding applications and help minimize leakage flux to protect nearby components from excessive electromagnetic interference (EMI).<br>Würth Electronics’ WE-DCT toroidal double power chokes offer very low RDC, very low core losses, and high saturation current to 120A. They have low inductance drift over temperature, and an operating temperature of –40 °C up to +125 °C.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Bourns": "c/passive-components/inductors/toroidal-inductors/smd-toroidal-inductors?brand=bourns",
+				"Coilcraft SPT Series": "c/passive-components/inductors/toroidal-inductors/smd-toroidal-inductors?brand=coilcraft",
+				"Murata 8300 Series": "c/passive-components/inductors/toroidal-inductors/smd-toroidal-inductors?brand=murata-power-solutions",
+				"Würth Electronics’ WE-DCT toroidal double power chokes": "c/passive-components/inductors/toroidal-inductors/smd-toroidal-inductors?brand=wurth-elektronik"
+			}
+		},
+		{
+			"TITLE": "Through Hole Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"CONTENT": "We offer a wide range of through hole resistors from many manufacturers, with resistance values from 0.005ohm to 500Gohm, and power ratings from 50mW to 5kW.<br>What materials are used in through hole resistors?<br>Resistors can be composed of a variety of materials. Most modern, commonly used through-hole resistors have a wirewound or film construction. A wirewound resistor has a length of resistive wire that is wound around a supporting element from one end to the other. Most film resistors are composed of a carbon, metal, or metal-oxide film. In these resistors, a thin film of conductive material is deposited onto the ceramic element and a helix is cut from one end of the element to the other. It is then covered by an insulating material.<br>Through hole resistor size<br>As opposed to SMD resistors , through-hole (THT) resistors are not standardised, and manufacturers may use slightly different measurements. THT resistors are also sized based on their power ratings and their type, e.g. carbon material, wire-wound, carbon film, and metal film. For example, the width of a common 1/2W resistor is 9.2mm, while the length of a smaller 1/4W resistor is 6.3mm. Make sure you check the manufacturer’s datasheet whenever you need to know a component’s exact size.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"SMD resistors": "c/passive-components/resistors-fixed-value/chip-smd-resistors?resistor-element-material=metal-foil"
+			}
+		},
+		{
+			"TITLE": "Through Hole Toroidal Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/toroidal-inductors/through-hole-toroidal-inductors",
+			"CONTENT": "Our range of Through Hole Toroidal Inductors includes these examples from our lineup of manufacturers:<br>The Abracon ATCA Series low EMI through hole toroidal inductors use low EMI/RFI toroid topology. They feature high saturation current up to 10A and a wide operating temperature range of -40°C to 105°C. Vertical and horizontal orientations optimize EMI/RFI. The toroidal inductors are compatible with low cost through-hole assembly.<br>Applications include high power switch-mode power supplies, high power LED ballasts, power line filters, solar inverters, white goods, and motor drivers.<br>The Bourns 2100, 2200, and 2300 Series of low-cost high current through hole toroid inductors are designed for applications like DC-DC converters and EMI filter applications. The products feature low radiation and low core loss with high current capacity, with horizontal or vertical mount options. Operating temperature is -55 to +105°C<br>The Kemet SHBC and HHBC coils are normal mode chokes with a wide variety of characteristics. These coils are designed with Fe-Si-Al (SHBC) or Fe-Si (HHBC) dust cores and are useful in various fields such as DC/DC converters and differential noise countermeasures.<br>HHBC applications include switching power supply outlets, DC-DC converters, phase compensation, boost converters, and normal mode noise countermeasures.<br>The Würth WE-FI leaded toroidal line choke series supports a current loading up to 9A. They feature iron powder cores with low losses, and low magnetic leakage fields. Operating temperature is –25°C to + 125°C. They are perfect for filtering of symmetrical interferences, and are found in voltage transformers and power supplies.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Abracon ATCA Series": "c/passive-components/inductors/toroidal-inductors/through-hole-toroidal-inductors?brand=abracon",
+				"EMI filter": "c/passive-components/emc-rfi-suppression"
+			}
+		},
+		{
+			"TITLE": "Toroidal Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/toroidal-inductors",
+			"CONTENT": "We offer a wide range of toroidal inductors and coils, from 91nH to 4mH, with RMS current ratings from 240mA to 31.5A.<br>What is a Toroidal Inductor?<br>Toroidal inductors and transformers are inductors and transformers which use magnetic cores with a toroidal (ring or doughnut) shape. They are passive electronic components, consisting of a circular ring or doughnut shaped magnetic core of ferromagnetic material such as laminated iron, iron powder, or ferrite, around which wire is wound.<br>Although closed-core inductors and transformers often use cores with a rectangular shape, the use of toroidal-shaped cores sometimes provides superior electrical performance. The advantage of the toroidal shape is that, due to its symmetry, the amount of magnetic flux that escapes outside the core (leakage flux) can be made low, potentially making it more efficient and making it emit less electromagnetic interference (EMI).<br>Types of toroidal inductor<br>Several types of toroid inductors and coils span multiple industries from music to medicine. Toroid inductors are often categorised by the following attributes:<br>Case size and dimension<br>Current rating<br>Nominal inductance<br>DC resistance<br>Packaging type<br>Tolerance<br>The cores are made from various materials such as silicon steel, nickel iron, iron powder and ferrites.<br>Applications for toroid inductors<br>Toroid inductors’ design advantages allow many applications in multiple industries. Security systems, power distribution equipment, automotive electronics, and renewable energy inverter systems all utilize toroid coils. Other industries that use toroid core windings are medical isolation material, telecommunication systems, industrial control equipment, and professional audio- and audio-visual equipment.<br>Toroidal inductors and transformers are also used in many other electronic circuits: power supplies, inverters, and amplifiers, which in turn are used in most electrical equipment: TVs, radios, computers, and audio systems.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"ferrite": "c/passive-components/emc-rfi-suppression/ferrites-ferrite-assortments/ferrite-assortments?brand=wurth-elektronik",
+				"audio-visual equipment.": "c/audio-visual"
+			}
+		},
+		{
+			"TITLE": "Zero Ohm Network Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/zero-ohm-network-resistors",
+			"CONTENT": "We offer a choice of isolated thick film Zero Ohm Network Resistors with convex, concave, or flat form factors. Below are examples of the ranges offered by our manufacturers:<br>The Panasonic EXB28 and EXB38 series are isolated thick film chip resistor networks with convex termination. These integrated discrete resistors can effectively reduce PCB space with high component reliability and more efficiency for pick and place applications.<br>The Bourns CAT/CAY 16 Series of zero ohm chip resistor arrays are available with convex or concave terminals, 2,4, or 8 isolated elements, and a resistance tolerance of ±1 % or ±5 %.<br>The Multicomp range of thick film isolated, convex array chip resistors are of small size and light weight, offering high quality, reliable performance.<br>Yageo array chip resistors are constructed on top of a high-grade ceramic body. Internal metal electrodes are added at each end to make contact with the thick film resistive element. The composition of the resistive element is a noble metal embedded into a glass and covered by a second glass to prevent environment influences. The resistor is laser trimmed to the rated resistance value. The resistor is covered with a protective epoxy coat, finally the two external terminations (matte tin on Ni-barrier) are added.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Panasonic": "c/passive-components/resistors-fixed-value/zero-ohm-network-resistors?brand=panasonic",
+				"Bourns CAT/CAY 16 Series": "c/passive-components/resistors-fixed-value/zero-ohm-network-resistors?brand=bourns",
+				"Yageo array chip resistors": "c/passive-components/resistors-fixed-value/zero-ohm-network-resistors?brand=yageo"
+			}
+		},
+		{
+			"TITLE": "Zero Ohm Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/zero-ohm-resistors",
+			"CONTENT": "We offer zero ohm resistors manufactured with ceramic, carbon film, metal, thick and thin film technologies, with current ratings from 500mA to 200A.<br>What is a zero ohm resistor?<br>A zero ohm resistor is a single resistor that is manufactured to have zero ohms of resistance when measured. A through-hole resistor with zero ohms is often marked with a single black band, which indicates the value of the resistance.<br>Meanwhile, a surface mount ceramic resistor will have a single or a multiple number of zeros to represent this zero ohm resistance. You can also imagine zero ohm resistors as jumper wires that are shaped as typical resistors. Measuring a zero ohm resistor with a multimeter will return in a reading that approaches zero ohm.<br>You may wonder why zero ohm resistors are necessary, when a jumper wire could do the same job. Certainly, if you’re building a PCB with manual placement and soldering, using a jumper wire is probably the best way to establish connections between pads. However, mass production involves a pick-and-place machine, which doesn’t have the capability of unrolling and cutting jumper wires. In such cases, a separate machine is needed for jumper wires – but this adds setup and processing costs and requires more equipment and space. Therefore, zero ohm resistors which can be handled by a pick and place machine like any other SMT component are the perfect alternative that saves cost and time in assembly.<br>How do you test a zero-ohm resistor?<br>For a resistor component such as an SMD resistor, the zero ohm resistor is basically specified as DC resistance, not AC impedance. The accuracy of the zero ohm resistor at DC should be tested by using a precise digital multi-meter (DMM) such as the Keysight 34420A.<br>To evaluate AC impedance characteristic of the zero ohm resistor, the E4980A or the E4990A should be used with a Kelvin contact test fixture such as the 16047A (for the leaded resistor) or the 16044A (for the SMD resistor.) Since the AC impedance at low frequencies is very small and difficult to measure, the AC impedance should be measured at a high frequency above 1 MHz.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"through-hole resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+				"SMD resistor": "c/passive-components/resistors-fixed-value/chip-smd-resistors?resistor-element-material=metal-foil"
+			}
+		}		
+	]
+}

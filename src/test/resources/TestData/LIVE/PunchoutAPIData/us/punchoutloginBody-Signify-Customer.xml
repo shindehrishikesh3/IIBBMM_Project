@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cXML.org/schemas/cXML/1.2.021/cXML.dtd">
+<cXML xml:lang="en-us" timestamp="2019-06-10T14:36:55" payloadID="636957742155119713.16374a14d18f4b929bbc041749cf9edb@GEPUATEUBiz.gep.com" version="1.2.020">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>Signify-T</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="DUNS">
+<Identity>114174535</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>Signify-T</Identity>
+<SharedSecret>Element14!</SharedSecret>
+</Credential>
+<UserAgent>
+</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="test">
+<PunchOutSetupRequest operation="create">
+<BuyerCookie>57ec5053-5bf2-4a9f-bea7-e9e6ebd65854</BuyerCookie>
+<Extrinsic name="UniqueName">Lukas Kvizda</Extrinsic>
+<Extrinsic name="UserEmail">Lukas.Kvizda@gep.com</Extrinsic>
+<BrowserFormPost>
+<URL>https://smartuateu.gep.com/Catalog/PageLoad/Index?oloc=108&amp;c=NzAwMjE3ODg1&amp;PunchoutCartReqId=0&amp;PartnerConfigId=3180#/catalog/cart</URL>
+</BrowserFormPost>
+<SupplierSetup>
+<URL>https://www.newark.com/webapp/wcs/stores/servlet/punchout/punchoutLogin?storeId=0</URL>
+</SupplierSetup>
+</PunchOutSetupRequest>
+</Request>
+</cXML>

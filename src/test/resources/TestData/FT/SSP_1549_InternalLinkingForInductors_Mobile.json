@@ -1,0 +1,144 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "Inductors",
+			"TITLE_LINK": "c/passive-components/inductors",
+			"CONTENT": "1mh inductors, 10mh inductors, 100mh inductors, 22nh inductors, 47uh inductor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"1mh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=1mh",
+				"10mh inductors": "c/passive-components/inductors?inductance=10mh",
+				"100mh inductors": "c/passive-components/inductors?inductance=100mh",
+				"22nh inductors": "c/passive-components/inductors/rf-inductors?inductance=22nh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh"
+			}
+		},
+              {
+			"TITLE": "Charging Coil Arrays",
+			"TITLE_LINK": "c/passive-components/inductors/charging-coil-arrays",
+			"CONTENT": "3mh inductors, 22mh inductors, 15mh inductors, 47mh inductors, 33mh inductors, 100nh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3mh inductors": "c/passive-components/inductors?inductance=3mh",
+				"22mh inductors": "c/passive-components/inductors?inductance=22mh",
+				"15mh inductors": "c/passive-components/inductors?inductance=15mh",
+				"47mh inductors": "c/passive-components/inductors?inductance=47mh",
+				"33mh inductors": "c/passive-components/inductors?inductance=33mh",
+                        "100nh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=100nh"
+			}
+		},
+
+              {
+			"TITLE": "Charging Coils",
+			"TITLE_LINK": "c/passive-components/inductors/charging-coils",
+			"CONTENT": "100nh inductors, 47uh inductor, 4mh inductors, 8mh inductors, 470nh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"100nh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=100nh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"4mh inductors": "c/passive-components/inductors?inductance=4mh",
+				"8mh inductors": "c/passive-components/inductors?inductance=8mh",
+				"470nh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=470nh"
+			}
+		},
+
+               {
+			"TITLE": "Coupled Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/coupled-inductors",
+			"CONTENT": "12mh inductors, 47uh inductor, 18mh inductors, 470uh inductors, 33uh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"12mh inductors": "c/passive-components/inductors?inductance=12mh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"18mh inductors": "c/passive-components/inductors?inductance=18mh",
+				"470uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=470uh",
+				"33uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=33uh"
+			}
+		},
+
+              {
+			"TITLE": "Fixed Value Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/fixed-value-inductors",
+			"CONTENT": "220nh inductors, 47uh inductor, 33uh inductors, 10uh inductors SMD, 5nh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"220nh inductors": "c/passive-components/inductors/power-inductors?inductance=220nh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"33uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=33uh",
+				"10uh inductors SMD": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=10uh",
+				"5nh inductors": "c/passive-components/inductors?inductance=5nh"
+			}
+		},
+
+               {
+			"TITLE": "SMD Power Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/power-inductors/smd-power-inductors",
+			"CONTENT": "5uh inductor, 1.5uh inductor, 2.2uh inductor, 470uh inductors, 4.7uh SMD inductor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"5uh inductor": "c/passive-components/inductors?inductance=5uh",
+				"1.5uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=1.5uh",
+				"2.2uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=2.2uh",
+				"470uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=470uh",
+				"4.7uh SMD inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=4.7uh"
+			}
+		},
+
+                {
+			"TITLE": "Power Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/power-inductors",
+			"CONTENT": "6.8uh inductors, 18uh inductors, 220nh SMD power inductors, 27uh inductors, wireless charging coils",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"6.8uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=6.8uh",
+				"18uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=18uh",
+				"220nh SMD power inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=220nh",
+				"27uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=27uh",
+				"wireless charging coils": "c/passive-components/inductors/charging-coils"
+			}
+		},
+
+
+           {
+			"TITLE": "WireWound Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/rf-inductors/wirewound-inductors",
+			"CONTENT": "220nh SMD power inductors, 47uh inductor, Qi wireless charging coils, 27uh inductors, 100nh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"220nh SMD power inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=220nh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"Qi wireless charging coils": "c/passive-components/inductors/charging-coils",
+				"27uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=27uh",
+				"100nh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=100nh"
+			}
+		},
+               {
+			"TITLE": "Radial Leaded Power Inductors",
+			"TITLE_LINK": "c/passive-components/inductors/power-inductors/radial-leaded-power-inductors",
+			"CONTENT": "47uh inductor, 100uh inductors SMD, 33uh inductors, 10uh inductors SMD, 220uh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"100uh inductors SMD": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=100uh",
+				"33uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=33uh",
+				"10uh inductors SMD": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=10uh",
+				"220uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=220uh"
+			}
+		},
+              
+                {
+			"TITLE": "WireWound Inductors In Newark",
+			"TITLE_LINK": "search?categoryId=800000221501",
+			"CONTENT": "220nh SMD power inductors, 47uh inductor, Qi wireless charging coils, 27uh inductors, 100nh inductors",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"220nh SMD power inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=220nh",
+				"47uh inductor": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=47uh",
+				"Qi wireless charging coils": "c/passive-components/inductors/charging-coils",
+				"27uh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=27uh",
+				"100nh inductors": "c/passive-components/inductors/power-inductors/smd-power-inductors?inductance=100nh"
+			}
+		}
+	]
+}

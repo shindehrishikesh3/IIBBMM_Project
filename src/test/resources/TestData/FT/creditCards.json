@@ -1,0 +1,47 @@
+{
+	"name": "creditcards",
+	"Description": "Contain different types of credit card details",
+	"creditcards": {
+		"visa": {
+			"cardnumber": "4444333322221111",
+			"cv2": "123",
+			"name": "Test automation",
+			"phonenumber": "1234567890",
+			"expirymonth": "12",
+			"expiryyear": "30"
+		},
+		"mastercard": {
+			"cardnumber": "5555555555554444",
+			"cv2": "123",
+			"name": "Test automation",
+			"phonenumber": "1234567890",
+			"expirymonth": "11",
+			"expiryyear": "30"
+		},
+		"discover": {
+			"cardnumber": "6011111111111117",
+			"cv2": "123",
+			"name": "Test automation",
+			"phonenumber": "1234567890",
+			"expirymonth": "10",
+			"expiryyear": "30"
+		},
+		"amex": {
+			"cardnumber": "378282246310005",
+			"cv2": "1234",
+			"name": "Test automation",
+			"phonenumber": "1234567890",
+			"expirymonth": "9",
+			"expiryyear": "30"
+		},
+		"unionpay": {
+			"cardnumber": "8171999927660000",
+			"cv2": "123",
+			"name": "Test automation",
+			"phonenumber": "1234567890",
+			"expirymonth": "12",
+			"expiryyear": "30",
+			"smscode": "111111"
+		}
+	}
+}

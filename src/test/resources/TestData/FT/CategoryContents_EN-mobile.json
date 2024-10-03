@@ -1,0 +1,123 @@
+{
+	"CATEGORY_HEADERS": [{
+			"TITLE": "Aerials",
+			"TITLE_LINK": "c/audio-visual/antennas/aerials",
+			"CONTENT": "Embedded 2.4GHz PCB antenna for 802.11 b/g, Bluetooth and ZigBee, IP68 antennas with integrated waterproof connectors, telescopic scanning antennas with SMA connectors, relay antenna transceiver units for XB5R and XB4R 22mm dia control units.",
+			"LINKS": [{
+				"WORD": "antenna transceiver",
+				"URL": "c/audio-visual/antennas"
+			}]
+		},
+		{
+			"TITLE": "AC / DC LED Power Supplies",
+			"TITLE_LINK": "c/led-lighting-components/led-power-supplies/ac-dc-led-power-supplies",
+			"CONTENT": "Constant current, constant current/voltage and constant voltage drivers with universal AC inputs, PF-corrected SELV outputs, presence detection input and soft dimming. Dimmable and non-dimmable models available. Fanless, fully-encapsulated models with IP67 ratings or open frames. Screw terminals, screwless cable clamps or socket output connectors. Model suitable for emergency lighting applications.",
+			"LINKS": [{
+				"WORD": "lighting applications",
+				"URL": "c/led-lighting-components"
+			}]
+		},
+		{
+			"TITLE": "AC / DC DIN Rail Mount Power Supplies",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/ac-dc-converters/ac-dc-din-rail-mount-power-supplies",
+			"CONTENT": "Multi-output and compact single-output AC/DC DIN rail mount converters with efficiency to 94% and wide choice of fixed or adjustable output voltages. Wide AC input range and DC input models available. Low profile, high efficiency models suitable for building automation and industrial applications. Remote Voltage Adjust/On/Off models available.",
+			"LINKS": [{
+				"WORD": "single-output AC/DC",
+				"URL": "c/power-line-protection/power-supplies/ac-dc-converters"
+			}]
+		},
+		{
+			"TITLE": "AC / DC External Plug In Adaptor Power Supplies",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/ac-dc-converters/ac-dc-external-plug-in-adaptor-power-supplies",
+			"CONTENT": "Wide AC input desktop units, and converters with Australian, Euro, UK and US input plugs, with multiple DC output jacks. Fixed and adjustable output voltages, multiple outputs and low-voltage input models with car lighter connections available. Units with worldwide Medical approvals and non-standard connector options.",
+			"LINKS": [{
+				"WORD": "NONE",
+				"URL": "NONE"
+			}]
+		},
+		{
+			"TITLE": "AC / DC Enclosed Power Supplies",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/ac-dc-converters/ac-dc-enclosed-power-supplies",
+			"CONTENT": "Fixed or adjustable dual, single, triple or quadruple output voltages, universal AC inputs, some with DC input options. Available in metal cases, open frames or as encapsulated modules. Full protection is provided for power and thermal transgressions. Models offering high efficiency with Medical approval, or battery-charging outputs. Silent PC PSUs.",
+			"LINKS": [{
+				"WORD": "provided for power",
+				"URL": "c/power-line-protection/power-supplies"
+			}]
+		},
+		{
+			"TITLE": "Batteries - Non-Rechargeable",
+			"TITLE_LINK": "c/batteries-chargers/batteries-non-rechargeable",
+			"CONTENT": "Primary Non-Rechargeable Batteries in differing technologies including Alkaline, Lithium and Silver Oxide. These offer choices of battery characteristic such as energy density, current drain and cost. Batteries can also be optimised for different applications by suitable selection of AA, AAA, button cell and other sizes, weight and self-discharge current.",
+			"LINKS": [{
+				"WORD": "NONE",
+				"URL": "NONE"
+			}]
+		},
+		{
+			"TITLE": "Threadlock & Retaining Compounds",
+			"TITLE_LINK": "c/chemicals-adhesives/adhesives-glues/threadlock-retaining-compounds",
+			"CONTENT": "Retaining compounds are adhesives commonly used to fill gaps between various mechanical components. Threadlock adhesives for fasteners and bearing adhesives for cylindrical fittings prevent loosening and leakage from shock and vibration. Epoxy potting compounds/adhesives, and acrylic adhesives for structural bonding of many surfaces. Activators for faster curing. Cyanoacrylate ‘Superglue’ adhesives for many materials. Hotmelt, silicone, impact, component bonding and other adhesives, and putties.",
+			"LINKS": [{
+				"WORD": "adhesives",
+				"URL": "c/chemicals-adhesives"
+			}]
+		},
+		{
+			"TITLE": "Batteries & Chargers",
+			"TITLE_LINK": "c/batteries-chargers",
+			"CONTENT": "Here we have batteries and battery chargers, we offer Alkaline, Lithium and Silver Oxide non-rechargeable batteries and Lead-Acid, NiCd, NiMH and Li-Ion rechargeable battery types. Sizes from button cell through AAA batteries, AA and D to different and larger dimensions are available. Manufacturers include Varta, Seiko, Panasonic, Multicomp, Yuasa, Maxell, Ansmann, Duracell, CamdenBoss, Sonnenschein, Saft and Renata. Wall-mount, benchtop and desktop battery chargers provide recharging capability. There are battery holders for SMT tapes, through-hole PCB or mounting in panels or other locations. Wire lead and PCB-mount battery contacts exist for most battery sizes, and battery management and information accessories can protect and prolong battery life.",
+			"LINKS": [{
+					"WORD": "rechargeable battery types",
+					"URL": "c/batteries-chargers/batteries-rechargeable"
+				},
+				{
+					"WORD": "battery chargers",
+					"URL": "c/batteries-chargers/battery-chargers"
+				},
+				{
+					"WORD": "battery holders",
+					"URL": "c/batteries-chargers/battery-holders"
+				},
+				{
+					"WORD": "battery contacts",
+					"URL": "c/batteries-chargers/battery-contacts"
+				}
+			]
+		},
+		{
+			"TITLE": "Batteries - Rechargeable",
+			"TITLE_LINK": "c/batteries-chargers/batteries-rechargeable",
+			"CONTENT": "Technologies including Lead-Acid, Lithium, NiMH and NiCD. Fast-recharging, high stable voltage, maintenance-free Lead-Acid. Ultra-thin, fast-recharging low capacity loss Lithium e.g. for energy harvesting, battery packs. High energy density NiMH for button cells, PCB mounting and larger sizes. NiCd with long service life and high capacity; batteries and battery packs.",
+			"LINKS": [{
+				"WORD": "NONE",
+				"URL": "NONE"
+			}]
+		},
+		{
+			"TITLE": "Chemicals & Adhesives",
+			"TITLE_LINK": "c/chemicals-adhesives",
+			"CONTENT": "If you produce, maintain and repair PCBs and associated electronic, electrical and electromechanical components, you’ll find all necessary chemical products here. Developers, etching and tin plating compounds and kits for PCB manufacturing, and heat-transfer paste, encapsulants, conformal coatings and protective varnishes for populated PCBs. Cleaners for PCBs, connectors and electromechanical assemblies are available, as are aerosol dusters and freeze-sprays for diagnostics/repair. Chemical accessories, sealants, paints, potting compounds and lubricants for equipment protection and maintenance. Many adhesives for different materials and applications.",
+			"LINKS": [{
+					"WORD": "Cleaners",
+					"URL": "c/chemicals-adhesives/cleaners-degreasers"
+				},
+				{
+					"WORD": "Chemical accessories",
+					"URL": "c/chemicals-adhesives/chemical-accessories"
+				},
+				{
+					"WORD": "sealants",
+					"URL": "c/chemicals-adhesives/sealants"
+				},
+				{
+					"WORD": "paints",
+					"URL": "c/chemicals-adhesives/paints-coatings"
+				},
+				{
+					"WORD": "potting compounds",
+					"URL": "c/chemicals-adhesives/potting-compounds"
+				}
+			]
+		}
+	]
+}

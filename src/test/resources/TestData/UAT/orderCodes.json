@@ -1,0 +1,22 @@
+{
+	"name": "order codes",
+	"description": "Order codes of different types",
+	"data": {
+		"sg": {
+			"instock": "1467469",
+			"instock2": "1861407"
+		},
+		"au": {
+			"instock": "1467469",
+			"instock2": "1861407"
+		},
+		"uk": {
+			"instock": "1467469",
+			"instock2": "1861407"
+		},
+		"us": {
+			"instock": "25R4482",
+			"instock2": "12T1459"
+		}
+	}
+}

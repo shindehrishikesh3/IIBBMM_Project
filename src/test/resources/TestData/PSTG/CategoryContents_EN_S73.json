@@ -1,0 +1,74 @@
+{
+	"HEADERS": [
+		{
+			"TITLE": "Security – Alarm Access Control",
+			"TITLE_LINK": "c/security/access-control/access-control-alarms",
+			"CONTENT": "Comprehensive range of keys, latches, locks, padlocks, hasps, hinges and accessories. Case grabbing and locking components. PIR, smoke alarms, carbon monoxide and photocell detectors. Alarm systems with auto dialler options. Traffic control barriers and equipment. Door entry keypads, ID cards, stripe cards and accessories. Sirens, tone generators and bell sounders. Fire extinguishers and stands.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Potting Compounds",
+			"TITLE_LINK": "c/chemicals-adhesives/potting-compounds",
+			"CONTENT": "General purpose, flame retardant epoxy resins in packets for potting, encapsulation, lamination and impregnating. Polyurethane resins including low-viscosity, optical and self-healing types for electrical and electronic applications. Two-part epoxy and hard-setting polyamide adhesives are available. Silicone heat transfer pastes and encapsulants, insulating and sealing fluids, RTV and optical silicones.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Steel Cable",
+			"TITLE_LINK": "c/security/access-control/locks-accessories/steel-cable",
+			"CONTENT": "Coil cable bike locks with multi-strand high tensile steel cable providing extra resistance to cut and pull attacks. Resettable illuminated 4 dial combination with key override, or reversible key and self-locking mechanisms. Locks supplied on hanging backing cards. U Shackle bike locks with hardened steel shackles.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Surge Protectors",
+			"TITLE_LINK": "c/power-line-protection/surge-protectors",
+			"CONTENT": "Compact PCB through-hole and SMT mounting, and DIN rail types. Devices with high peak pulse withstand capability and widest safety agency approvals. High-speed protection from short circuits, AC power cross, induction and lightning surges. Contact suppressors that suppress interference while increasing contact life. Single and 3-phase mains types. Photovoltaic surge-suppressors.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Fillers",
+			"TITLE_LINK": "c/chemicals-adhesives/fillers",
+			"CONTENT": "Two-component epoxy adhesives/fillers for high-strength bonding of rough and poorly fitting metal, ceramic, rigid plastics or wood surfaces; repair sticks for temperature- and chemically-resistant bonds for many metals and other materials. Expanding/foam fillers for household and mechanical applications. Alloy reinforced epoxy putty for precision repairs to stress bearing equipment.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"adhesives": "c/chemicals-adhesives/adhesives-glues"
+			}
+		},
+		{
+			"TITLE": "Hasp/Staple",
+			"TITLE_LINK": "c/security/access-control/locks-accessories/hasp-staple-locks",
+			"CONTENT": "Hasps that allow multiple users to lock out energy sources to meet Health & Safety regulations. High security corrosion resistant traditional hasps and staples. Stainless steel miniature circuit breaker lockout.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Labels & Stencils",
+			"TITLE_LINK": "c/static-control-site-safety-clean-room-products/site-safety/labels-stencils",
+			"CONTENT": "Tamperproof and Warranty Void labels. QA, PAT and Electric Safety Test, isolation, ESD, laser, electricity, earth and general warning labels, earth, WEEE, RoHS and CE symbol labels, address, shipping, suspension file and general-purpose/blank labels, humidity indicators, Serial Number, Service Record, Dial, CD and EPROM/PCB labels, markers, inspection and calibration labels",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Ferric Chloride",
+			"TITLE_LINK": "c/chemicals-adhesives/ferric-chloride",
+			"CONTENT": "Ferric ChlorideFerric Chloride products: powder and liquid for foam etching machines (41°C) and dish etching (36°C), etching crystals, granules and pellets for dissolving using warm water in etching tanks, plastic or glass vessels. Ammonium Persulfate liquid also available for rapid etching process.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Key Cabinets & Storage",
+			"TITLE_LINK": "c/security/access-control/key-cabinets-storage",
+			"CONTENT": "Tough steel key security cabinets with colour coded and numbered hook bars providing simple and effective control over up to 200 keys. Emergency key boxes with glass front and key locking.",
+			"HYPERLINK?": false
+			
+		},
+		{
+			"TITLE": "USB C",
+			"TITLE_LINK": "c/connectors/usb-connectors-adapters/usb-connectors?usb-connector-type=usb-type-c",
+			"CONTENT": "A range of USB C connectors in different PCB mounting styles and orientation such as surface mount and through hole. We have parts that sit on the board with vertical, horizontal and right angle orientation. Our range has parts to meet different USB standards including USB2.0, the various iterations of USB 3: USB3.0, USB3.1 and USB3.1 Gen 2 (USB3.2), as well as USB4.0.<br>USB C connectors can have 24 pins for full functionality. There are also 16 pin and 12 pin option, down to 6 pin USB C connectors for power only (which are replacing standard USB such as micro USB in many charging and power applications). Where a waterproof USB C or a dustproof USB C is needed, we have sealed USB C connectors with IPx8 rating. Contacts in these connectors are typically made from copper alloy with gold flash plating.<br>Different USB C connector gender types are available, male and female, plug and receptacle/socket.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "USB C 3.1",
+			"TITLE_LINK": "c/connectors/usb-connectors-adapters/usb-connectors?usb-connector-type=usb-type-c&usb-standard=usb-3.1",
+			"CONTENT": "Currently the most common USB connectors meet the USB type C 3.1 standard.<br>We have right angle, horizontal and vertical orientated USB C 3.1 connectors in through hole mount and surface mount mounting styles.<br>The USB C 3.1 standard allows for data transfer at SuperSpeed (SS) 5 Gbit/s bitrate (USB 3.1 Gen 1) or SuperSpeedPlus (SSP) 10 Gbit/s (USB 3.1 Gen 2). To take advantage of this we have USB type C 3.1 connectors with up to 24 pins.",
+			"HYPERLINK?": false
+		}
+		]
+}

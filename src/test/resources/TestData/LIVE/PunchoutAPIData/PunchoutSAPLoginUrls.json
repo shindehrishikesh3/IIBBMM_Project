@@ -1,0 +1,15 @@
+{
+	"name": "OCI PunchoutSAPLogin URLs",
+	"description": "OCI PunchoutSAPLogin URLs for different stores",
+	"PunchoutSAPLoginUrls": {
+		"uk": {
+			"anonymous": "https://uk.farnell.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=751194010&USERNAME=farnelts1&HOOK_URL=https://uk.farnell.com"
+		},
+		"ph": {
+			"anonymous": "https://ph.element14.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=Lee_Test_THB_PH&HOOK_URL=https://ph.element14.com"
+		},
+		"us": {
+			"anonymous": "https://www.newark.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=TEST_OCI_US_001&HOOK_URL=www.newark.com"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "Resistor Fixed Value",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value",
+			"CONTENT": "1k ohm resistor, 10k ohm resistor, 1 ohm 10 watt resistor, 2.2k ohm resistor, 47 ohm resistor, 2k ohm resistor, 20k ohm, 15k ohm resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"1k ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+				"10k ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+				"1 ohm 10 watt resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm&power-rating=10w",
+				"2.2k ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2.2kohm",
+				"47 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+				"2k ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+				"20k ohm": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm",
+				"15k ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=15kohm"
+			}
+		}
+	]
+}

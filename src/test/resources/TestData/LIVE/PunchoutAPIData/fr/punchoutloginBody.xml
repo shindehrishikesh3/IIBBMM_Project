@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.042/cXML.dtd">
+<cXML payloadID="2018-07-05T01:23:26+02:00@null" timestamp="2018-07-05T01:23:26+02:00" version="1.2.034">
+  <Header>
+    <From>
+      <Credential domain="NetworkID">
+        <Identity>CHCRNCRN001</Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="NetworkID">
+        <Identity>347764292</Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="AribaNetworkUserId">
+        <Identity>CHCRNCRN001</Identity>
+        <SharedSecret>orders2many</SharedSecret>
+      </Credential>
+      <UserAgent>element14</UserAgent>
+    </Sender>
+  </Header>
+  <Request deploymentMode="production">
+    <PunchOutSetupRequest operation="create">
+      <BuyerCookie>645190942-654719826</BuyerCookie>
+      <Extrinsic name="User">RUSSLAN</Extrinsic>
+      <Extrinsic name="Lang">en</Extrinsic>
+      <BrowserFormPost>
+        <URL>https://edh.cern.ch/Document/SupplyChain/MAG/?command=punchOutOrder&amp;objid=$$EDH6eod8llpd&amp;ebSupplierId=2</URL>
+      </BrowserFormPost>
+    </PunchOutSetupRequest>
+  </Request>
+</cXML>

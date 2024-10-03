@@ -1,0 +1,22 @@
+{
+	"name": "OCI PunchoutSAPLogin URLs",
+	"description": "OCI PunchoutSAPLogin URLs for different stores",
+	"PunchoutSAPLoginUrls": {
+		"uk": {
+			"anonymous": "https://www-uk-ftprdeu.farnell.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=1657289975&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp",
+			"existingUser": "https://www-uk-ftprdeu.farnell.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=ociuser1@pftest.com&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671465604&ACTIVEORG=1671465604&LOCALE=en_GB&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=ociuser1&PASSWORD=testss&STOREID=10151&PROCSYS=OCI",
+			"newlyRegistered": "https://www-uk-ftprdeu.farnell.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=[newuseremail]&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671720480&ACTIVEORG=1671720480&LOCALE=en_GB&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=[newuser]&PASSWORD=order2many&STOREID=10151&PROCSYS=OCI"
+		},
+		"sg": {
+			"anonymous": "https://www-sg-ftprdap.element14.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=567833&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp",
+			"existingUser": "https://www-sg-ftprdap.element14.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=sgftociuser1@pftest.com&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671808574&ACTIVEORG=1671808574&LOCALE=en_SG&HOOK_URL=http://e14-ch-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=sgftociuser1&PASSWORD=order2many&STOREID=10191&PROCSYS=OCI",
+			"newlyRegistered": "https://www-sg-ftprdap.element14.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=[newuseremail]&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671810872&ACTIVEORG=1671810872&LOCALE=en_SG&HOOK_URL=http://e14-ch-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=[newuser]&PASSWORD=order2many&STOREID=10191&PROCSYS=OCI"
+			
+		},
+		"us": {
+			"anonymous": "https://www-ftprdus.newark.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=559893&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp",
+			"existingUser": "https://www-ftprdus.newark.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=usftociuser1@pftest.com&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671813587&ACTIVEORG=1671813587&LOCALE=en_US&HOOK_URL=http://e14-gn-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=usftociuser1&PASSWORD=order2many&STOREID=10194&PROCSYS=OCI",
+			"newlyRegistered":"https://www-ftprdus.newark.com/webapp/wcs/stores/servlet/punchout/punchoutSAPLogin?storeId=0&EMAIL=[newuseremail]&OCI_VERSION=3.0&OkCode=ADDI&TARGET=_top&CALLER=CTLG&MPID=1671813236&ACTIVEORG=1671813236&LOCALE=en_US&HOOK_URL=http://e14-gn-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp&USER_NAME=[newuser]&PASSWORD=order2many&STOREID=10194&PROCSYS=OCI"
+		}
+	}
+}

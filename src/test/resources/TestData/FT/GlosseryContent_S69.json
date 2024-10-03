@@ -1,0 +1,64 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "Case Temperature",
+      "TITLE_LINK": "case-temperature-definition",
+      "CONTENT": "Case Temperature<br>Case temperature is the temperature of a semiconductor device/component’s case when it is operating in normal conditions. The Chemical Dictionary defines it as:<br>“In the measurement of thermal resistance, the temperature at a specified, accessible reference point on the package in which a semiconductor die is mounted”<br>Vishay Siliconix describes an application that benefits from the ability to measure case temperature relatively easily; it concerns a convenient method for estimating junction temperatures in power MOSFETs.<br>The thermal data provided on MOSFET datasheets is usually limited to thermal impedance between junction-to-lead and junction-to-ambient. While a number of sophisticated tools are available for more accurate thermal simulation based on customized conditions, quite often design engineers simply do not have resources or the time to utilize them. However, measuring the case top surface temperature is relatively easy, and a simple way of estimating the MOSFET junction temperature based on this top surface measurement would give designers a useful tool.<br>Vishay Siliconix provides this tool through their ThermaSim thermal simulation package, which helps designers speed time-to-market by allowing detailed thermal simulations to be performed before prototyping. The tool is the first online MOSFET simulation that uses structurally detailed power MOSFET models created using finite element analysis (FEA) techniques to increase the simulation's accuracy.<br>In an Application Note entitled “Estimating junction temperature by top surface temperature in power MOSFETS”, the company shows how to study and exploit the relationship between top surface case temperature and junction temperature and use it with ThermaSim to provide an easy thermal simulation methodology.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "semiconductor" : "c/semiconductors-ics",
+          "thermal resistance"  : "c/test-measurement/temperature-measurement-thermal-imaging/thermometers",
+		  "Application Note[Source_3rd Party]" : "http://www.vishay.com/docs/69993/an834.pdf"
+			  
+		  }
+       },
+   
+    {
+      "TITLE": "Fast Time-Constant Circuit",
+      "TITLE_LINK" :"fast-time-constant-circuit-definition",
+      "CONTENT": "Fast Time-Constant Circuit<br>A fast time constant (or FTC) circuit produces time constants of extremely short duration compared with those of conventional circuits. FTCs can be implemented using a low product of resistance and capacitance (RC) or a low ratio of inductance to resistance (L/R). If these circuit elements are of proper magnitude and are properly connected in relation to input and output, the resulting circuit output will be the time derivative of its input.<br>In radar systems, fast time constants are used in signal processing to reduce the effects of certain types of undesired signals, emphasize signals of short duration to produce discrimination against the low-frequency components of clutter, and protect against interference of either frequency-modulated or amplitude modulated signals. FTCs are also used as anti-jamming device in radar voice amplifier circuits. They differentiate incoming pulses so that only the leading edge of the pulses are used.<br>Circuits with fast time constants are also used in other applications including electronic computer to obtain fast operating rates in their arithmetic-logic units, and in the electronic portions of fibre optic systems to obtain a better match between electronic and optical bandwidths. The differentiating circuit, i.e., the differentiator, inserted between the detector and video amplifier, will pass individual pulses but not the modulation frequencies.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "FTCs are also used as anti-jamming" : "c/semiconductors-discretes/fets",
+          "electronic computer"  : "c/embedded-computers-education-maker-boards/raspberry-pi/embedded-daughter-boards-modules-raspberry-pi",
+       }
+    },
+    {
+      "TITLE": "Half-Power Point",
+      "TITLE_LINK" :"half-power-point-definition",
+      "CONTENT": "Half-Power Point<br>The half-power point or half-power bandwidth is the frequency at which the output power has dropped to half of its peak value; that is, at a level of approximately -3 dB. The half-power point is a commonly-used definition for the cutoff frequency and can be used in a variety of contexts, including the characterization of filters, optical filters, electronic amplifiers and antennas.<br>For amplifiers and filters, this occurs when the output voltage has dropped to 1/√2 or 0.707 of the maximum output voltage and the power has dropped by half (1/2 or 0.5). A bandpass amplifier will have two half-power points, whilst a low pass amplifier or a high pass amplifier will have only one.<br>The bandwidth of an amplifier is usually defined as the difference between the lower and upper half-power points. This is therefore also known as the 3-dB bandwidth. In the case of a low pass amplifier, there is no lower half-power point so the bandwidth is measured relative to direct current, i.e. 0 rad/s.<br>In antennas, the expression half-power point does not relate to frequency: instead, it describes the extent in space of an antenna beam. The half-power point is the angle off boresight at which the antenna gain first falls to half power (approx. -3 dB) from the peak. The angle between the -3 dB points is known as the beamwidth.",
+,
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "amplifiers"  : "c/semiconductors-ics/amplifiers-comparators",
+		  "high pass amplifier"  : "c/semiconductors-ics/amplifiers-comparators/audio-amplifiers",
+		  "antenna" : "c/audio-visual/antennas"
+       }
+    },
+    {
+      "TITLE": "IF Bandwidth",
+      "TITLE_LINK": "if-bandwidth-definition",
+      "CONTENT": "IF Bandwidth<br>IF Bandwidth is a range of frequencies centered around the IF frequency, limited by the 3dB amplitude points.<br>Intermediate frequencies are used for three general reasons. At very high (gigahertz) frequencies, signal processing circuitry performs poorly. Active devices such as transistors cannot deliver much amplification (gain). Ordinary circuits using capacitors and inductors must be replaced with cumbersome high frequency techniques such as striplines and waveguides. Therefore, a high frequency signal is converted to a lower IF for more convenient processing.<br>For example, in satellite dishes, the microwave downlink signal received by the dish is converted to a much lower IF at the dish, to allow a relatively inexpensive coaxial cable to carry the signal to the receiver inside the building. Bringing the signal in at the original microwave frequency would require an expensive waveguide.<br>A second reason, in receivers that can be tuned to different frequencies, is to convert the various different frequencies of the stations to a common frequency for processing.<br>However, the main reason for using an intermediate frequency is to improve frequency selectivity. In communication circuits, a very common task is to separate out or extract signals or components of a signal that are close together in frequency. This is called filtering. With all known filtering techniques, the filter's bandwidth increases proportionately with the frequency. Accordingly, a narrower bandwidth and more selectivity can be achieved by converting the signal to a lower IF and performing the filtering at that frequency.",
+	  
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "transistors"  : "c/semiconductors-discretes/transistors",
+          "capacitors"  : "c/passive-components/capacitors",
+		  "relatively"  : "c/test-measurement/rf-test-equipment/rf-microwave-test-components"
+		 }
+    },
+	
+	  {
+      "TITLE": "Gain-Bandwidth Product",
+      "TITLE_LINK": "gain-bandwidth-product-definition",
+      "CONTENT": "Gain-Bandwidth Product<br>The Gain Bandwidth Product describes how op amp gain behaviour relates to frequency. Manufacturers insert a dominant pole into the op amp’s frequency response, so that output voltage vs. frequency is predictable. This is because op amps have many active components, each with their own cut-off frequency and frequency response. This would make the overall op amp frequency response random, with poles and zeroes that differed from device to device even within the same family.<br>Manufacturers’ response to this has been to introduce a dominant pole to make the op amp frequency response more predictable, stable and ‘standardised’. The dominant pole makes the op amp behave like a single-pole system, with a drop of 20 dB for every decade of frequency, starting with the cut-off frequency.<br>Within such circuits, the gain bandwidth product shows that the product of the op amp gain and frequency at any point of the frequency response, is a constant. It can be calculated using the following formula:<br>In the case of Analog Devices’ ADA4004 precision amplifier, the gain bandwidth product is 12 MHz. Therefore, at a gain of one, the bandwidth is 12 MHz, and at the maximum open-loop gain of 500,000, the bandwidth is 12 MHz divided by 500,000, which is 24 Hz. This is the op amp open loop cut-off frequency.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "frequency response" : "c/passive-components/inductors/rf-inductors/radial-leaded-high-frequency-inductors",
+		  "amp frequency" : "c/semiconductors-ics/clock-timing-frequency-management/frequency-synthesizers",
+		  "such circuits"  : "c/circuit-protection/circuit-breakers"
+       }
+    }
+  
+  ]
+}

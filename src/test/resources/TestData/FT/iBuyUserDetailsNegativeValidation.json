@@ -1,0 +1,45 @@
+	{
+	"name": "IBuy new user details",
+	"description": "Details to be filled while creating new iBuy user for invalid details",
+	"iBuyUserDetails": {
+		"SuperAdministrator": {
+			"UserRole": "Super Administrator",
+			"personTitle": "",
+			"lastName": "   ",
+			"email": "   ",
+			"phoneNumber": "   ",
+			"username": "   ",
+			"password": "   ",
+			"approver": "Yes",
+			"primaryJob": "",
+			"primaryUse": ""
+		},
+		"TierAdministrator": {
+			"UserRole":"Tier Administrator",
+			"personTitle": "",
+			"lastName": "   ",
+			"email": "   ",
+			"phoneNumber": "   ",
+			"username": "   ",
+			"password": "   ",
+			"approver": "Yes",
+			"primaryJob": "",
+			"primaryUse": ""
+		},
+		"User": {
+			"UserRole":"User",
+			"personTitle": "",
+			"lastName": "   ",
+			"email": "   ",
+			"phoneNumber": "   ",
+			"username": "   ",
+			"password": "   ",
+			"approver": "Yes",
+			"primaryJob": "",
+			"primaryUse": ""
+  	}
+
+	}
+}
+
+

@@ -1,0 +1,150 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "470_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470ohm",
+			"CONTENT": "5 ohm resistor, 47 ohm resistor, 50 ohm resistor, 5k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"47 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+				"50 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=50ohm",
+				"5k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5kohm",
+				"5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5ohm"
+			}
+		},
+           {
+			"TITLE": "47_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+			"CONTENT": "5 ohm resistor, 50 ohm resistor, 470 ohm resistor, 5k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"50 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=50ohm",
+				"5k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5kohm",
+				"5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5ohm",
+				"470 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470ohm"
+			}
+		},
+           {
+			"TITLE": "50_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=50ohm",
+			"CONTENT": "5 ohm resistor, 47 ohm resistor, 470 ohm resistor, 5k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"47 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+				"5k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5kohm",
+				"5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5ohm",
+				"470 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470ohm"
+			}
+		},
+            {
+			"TITLE": "5k_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5kohm",
+			"CONTENT": "5 ohm resistor, 47 ohm resistor, 50 ohm resistor, 470 ohm resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"47 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+				"50 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=50ohm",
+				"5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5ohm",
+				"470 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470ohm"
+			}
+		},
+             {
+			"TITLE": "5_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5ohm",
+			"CONTENT": "47 ohm resistor, 50 ohm resistor, 470 ohm resistor, 5k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"47 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=47ohm",
+				"50 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=50ohm",
+				"5k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=5kohm",
+				"470 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470ohm"
+			}
+		},
+              {
+			"TITLE": "3k3_Ohm_Resistor",
+			"TITLE_LINK": "/c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+			"CONTENT": "330 ohm resistor, 4k7 resistor, 30k resistor, 33k resistor, 470k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"30k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+				"330 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+				"33k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm",
+				"4k7 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+				"470k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm"
+			}
+		},
+           
+            {
+			"TITLE": "30k_Ohm_Resistor",
+			"TITLE_LINK": "/c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+			"CONTENT": "330 ohm resistor, 3k3 resistor, 4k7 resistor, 33k resistor, 470k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3k3 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+				"330 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+				"33k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm",
+				"4k7 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+				"470k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm"
+			}
+		},
+               
+            {
+			"TITLE": "330_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+			"CONTENT": "3k3 resistor, 4k7 resistor, 30k resistor, 33k resistor, 470k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3k3 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+				"30k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+				"33k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm",
+				"4k7 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+				"470k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm"
+			}
+		},
+            {
+			"TITLE": "33k_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm",
+			"CONTENT": "330 ohm resistor, 3k3 resistor, 4k7 resistor, 30k resistor, 470k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3k3 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+				"30k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+				"330 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+				"4k7 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+				"470k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm"
+			}
+		},
+             {
+			"TITLE": "470k_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm",
+			"CONTENT": "330 ohm resistor, 3k3 resistor, 4k7 resistor, 30k resistor, 33k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3k3 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+				"30k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+				"330 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+				"4k7 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+				"33k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm"
+			}
+		},
+
+          {
+			"TITLE": "4k7_Ohm_Resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=4.7kohm",
+			"CONTENT": "330 ohm resistor, 3k3 resistor, 30k resistor, 33k resistor, 470k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"3k3 resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=3.3kohm",
+				"30k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=30kohm",
+				"330 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=330ohm",
+				"33k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=33kohm",
+				"470k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=470kohm"
+			}
+		}
+
+
+           
+              
+	]
+}

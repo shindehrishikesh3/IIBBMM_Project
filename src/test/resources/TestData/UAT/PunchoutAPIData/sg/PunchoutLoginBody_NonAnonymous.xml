@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.052/cXML.dtd">
+<cXML payloadID="1644493062222-7890639632398334533@10.162.97.172" timestamp="2022-02-10T03:37:42-08:00" xml:lang="en-US">
+	<Header>
+		<From>
+			<Credential domain="NetworkID">
+				<Identity>1655992145</Identity>
+			</Credential>
+		</From>
+		<To>
+			<Credential domain="NetworkID">
+				<Identity>1655992155</Identity>
+			</Credential>
+		</To>
+		<Sender>
+			<Credential domain="AribaNetworkUserId">
+				<Identity>ariba-network-catalog-tester@ariba.com</Identity>
+				<SharedSecret>order2many</SharedSecret>
+			</Credential>
+			<UserAgent>AutoTestSG2_DoNotTouch</UserAgent>
+		</Sender>
+	</Header>
+	<Request>
+		<PunchOutSetupRequest operation="create">
+			<BuyerCookie>5kACJPicKgIJyvfkvphbCkIEEUAGQq6x0.591477445599950632</BuyerCookie>
+			<Extrinsic name="CostCenter">670</Extrinsic>
+            <Extrinsic name="UserEmail">pbalbudhe@premierfarnell.com</Extrinsic>
+            <Extrinsic name="User">autotestuser1</Extrinsic>
+			<BrowserFormPost>
+				<URL>https://service.ariba.com/CatalogTester.aw/125004023/ad/handlePunchOutOrder/5kACJPicKgIJyvfkvphbCkIEEUAGQq6x0.591477445599950632?awr=2&amp;u=1mdeMokA&amp;awps=XXyuubEK6fvxa7IV</URL>
+			</BrowserFormPost>
+			<SupplierSetup>
+				<URL>https://www-sguatprdap.element14.com/webapp/wcs/stores/servlet/punchout/punchoutLogin?storeId=0</URL>
+			</SupplierSetup>
+			<ShipTo>
+				<Address addressID="26">
+					<Name xml:lang="BG">Bulgaria_Ariba</Name>
+					<PostalAddress name="_ahwyfd">
+						<DeliverTo>Bulgaria_Ariba</DeliverTo>
+						<Street>CANAL ROAD, LEEDS</Street>
+						<City>REGIONT</City>
+						<State>12345</State>
+						<PostalCode>SA13 2NG</PostalCode>
+						<Country isoCountryCode="BG">Bulgaria</Country>
+					</PostalAddress>
+				</Address>
+			</ShipTo>
+			<SelectedItem>
+				<ItemID>
+					<SupplierPartID>AAA</SupplierPartID>
+					<SupplierPartAuxiliaryID/>
+				</ItemID>
+			</SelectedItem>
+		</PunchOutSetupRequest>
+	</Request>
+</cXML>

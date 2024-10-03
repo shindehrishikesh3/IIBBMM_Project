@@ -1,0 +1,48 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "MELF SMD Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/melf-smd-resistors",
+			"CONTENT": "We offer Carbon Film, Metal Film, Thin Film, and Thick Film MELF SMD resistors, in resistance values from 0.1Ω to 10MΩ.<br><br>What are the advantages of MELF resistors?<br>MELF SMD resistors are the perfect choice for applications where reliability and stability are of major concern at higher power ratings and higher operating voltages.<br>Many electronic circuits are exposed to high pulse loads. This means that pulse-proof resistors are essential for protecting the circuit’s electronic components. These must be excellent in both pulse handling and long term stability, with low drift.<br>MELF SMD resistors offer a good solution. Although they are a thin film type, they are cylindrical rather than flat. This gives them a surface three times larger than a thin film resistor of the same size. This design also allows a helical trimming pattern to be used, enabling a uniform current distribution. Therefore, they can distribute heat more efficiently so their pulse load capability is five times higher, and their long term stability is excellent as well.<br>Apart from the standard metal film technology, MELF resistors are also available with carbon film, which has unrivalled thermal stability; this further enhances their pulse load capability.<br>MELF resistor package sizes<br>Farnell offers MELF resistors in package sizes from 0102 (2211 Metric) to 2512 (6432 Metric). We also offer 3614 Metric products.",
+			"HYPERLINK?": false
+		},		
+		{
+			"TITLE": "Panel / Chassis Mount Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/panel-chassis-mount-resistors",
+			"CONTENT": "We offer ranges of Panel / Chassis Mount Resistors with values from 500µΩ to 0.5GΩ. Below are examples of our manufacturers and their technologies.<br><br>A panel/chassis mount resistor is manufactured using wirewound resistor technology and features a ceramic core that is moulded into an extruded aluminium chassis mount housing. The wirewound design maximises pulse handling and the aluminium housing allows for superior heat conduction. TE Connectivity offers chassis mount resistors that are engineered for a variety of applications, including motor control, braking systems, welding, and X-rays.<br>Vishay offers wirewound, industrial power, aluminium housed chassis mount resistors such as the RHXXX Series. These offer moulded construction for total environmental protection, with complete welded construction. They meet applicable requirements of MIL-PRF-18546. They are available in non-inductive styles (type NH) with Ayrton-Perry winding for lowest reactive components<br>They mount on chassis to utilize heat-sink effect, and offer excellent stability in operation (< 1 % change in resistance).<br>The WH series of panel/chassis mount resistors from TT Electronics/Welwyn are 50W axial leaded wirewound resistors with solder-dipped copper clad steel terminations. Cap and lead assemblies are fitted to a high purity ceramic substrate. The resistive element is wound onto the substrate and welded to the caps. The wound rod is then moulded and fitted into aluminium housing to give optimum stability and reliability. The aluminium housed wirewound resistor is suitable for severe environments and excellent thermal conductivity to heatsink. Typically used in high power applications.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"TE Connectivity": "c/passive-components/resistors-fixed-value/panel-chassis-mount-resistors?brand=te-connectivity",
+				"RHXXX Series": "c/passive-components/resistors-fixed-value/panel-chassis-mount-resistors?brand=vishay",
+				"WH series of panel/chassis mount resistors": "c/passive-components/resistors-fixed-value/panel-chassis-mount-resistors?brand=tt-electronics-welwyn"
+			}
+		},
+		{
+			"TITLE": "Resistor Accessories",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/resistor-accessories",
+			"CONTENT": "Our resistor accessories include adjustable lugs, brackets, metal washers, mica insulating washers, mounting brackets, clips, and kits, and trimming tool sets.<br><br>Mounting brackets are available for power resistors, wirewound resistors, and 200/210/270 type resistors. They are available in either slotted (one with end-slot/one with side-slot) or elongated styles, and comprise sturdy plated steel brackets, along with thru-bolts, centring washers and insulating washers (included),<br>Trimming tool sets include a 10-piece Trimming Tool Set with moulded plastic tips, and slotted, hexagonal and square types. It is suitable for use with anti-static trimmers, and is intended for maintenance and repair applications.<br>Metal washers are available for power resistors.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Resistor Kits & Assortments",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/resistor-kits-assortments",
+			"CONTENT": "We offer resistor kits & assortments from several manufacturers, with wide ranges of power ratings, resistance values, and resistance tolerances.<br><br>Multicomp Pro offers a wide range of resistor kits for test and measurement applications. Power ratings are based on full load continuous operation at 70°C ambient temperature. Resistance values range from 10Ω to 1MΩ. Each kit comprises 100 pcs each of various resistor values. Resistor packages include 0603, 0805, 0402, 1206, 6050, 2512, 2010, and axial leaded.<br>Some kits also have 0Ω resistors.<br>Bourns offers trimmer design kits for use with Trimpot potentiometers, for panel mounting and through hole applications in industrial environments.<br>Surface mount thick film chip resistor kits are available from Vishay, with AEC-Q200 qualified products available. One kit has 0402, 0603, 0805, and 1206 case sizes and features E96 series resistance values from 10Ω to 1 MΩ (every fourth value) in addition to a 0 Ω jumper<br>Thin film chip resistor kits are also available from Vishay; for example, a kit with 20 Pcs of each 80 values of 47ohm to 100kohm Precision Wide Terminal Thin Film Chip Resistors with 250mW power ratings. The resistors offer superior temperature cycling robustness with an operating temperature up to 155 °C. They are AEC-Q200 qualified (pending).<br>Metal film resistor kits are available from Nova. In one kit, resistors range from 1Ω to 10MΩ with 400mW power ratings, and are intended for industrial applications.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Multicomp Pro": "c/passive-components/resistors-fixed-value/resistor-kits-assortments?brand=multicomp-pro",
+				"0Ω resistors": "c/passive-components/resistors-fixed-value/zero-ohm-resistors",
+				"Trimpot potentiometers": "c/passive-components/potentiometers-trimmers-accessories/slide-potentiometers"
+			}
+		},		
+		{
+			"TITLE": "RF Resistors",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/rf-resistors",
+			"CONTENT": "Our RF Resistor ranges have resistance values from 10Ω to 1KΩ, and comprise mostly products from Vishay.<br><br>What is an RF resistor?<br>RF and Microwave Resistors are devices that introduce an opposition to the flow of RF signals. They can be mounted on heat sinks to improve heat dissipation. RF/Microwave resistors are made of substrate materials like alumina, ALN, BeO, tantalum nitrate and CVD. These resistors are usually manufactured in a thick/thin film process and are available in various package types like chip, surface mount, flanged, through-hole and others.<br>Key parameters for RF resistors include resistance, operating frequency, technology (type of process, typically thick or thin film, used in their construction), and power rating.<br>Vishay’s CH series thin film Microwave Resistors offer pure alumina substrate (99.5%). These miniaturised components are designed so that their internal reactance is very small. When correctly mounted and utilized, they function as almost pure resistors on a very large range of frequencies up to 50GHz.<br>The Vishay FC series chip resistors are designed with low internal reactance. They function as almost pure resistors on a very high range of frequencies. The specialized laser edge trimming allows for precision tolerances to 0.1 %.<br>They are of a small standard size (0402 case size) and are edge trimmed block resistors with high purity alumina substrate. They have an ohmic range of 10 Ω to 1000 Ω with small internal reactance (< 10 mΩ) and low TCR (down to ± 25 ppm/°C).<br>Kyocera AVX crossovers are miniature, low profile devices that allow designers to avoid the use of PCB vias or coaxial jumper cables when DC supply voltage lines must cross one another or cross over RF signal lines. They are manufactured using MLO technology which matches the CTE of PCB material and provides low loss across a wide RF spectrum.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Vishay’s CH series thin film Microwave Resistors": "c/passive-components/resistors-fixed-value/rf-resistors?brand=vishay"
+			}
+		}
+	]
+}

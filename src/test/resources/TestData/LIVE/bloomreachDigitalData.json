@@ -1,0 +1,270 @@
+{
+	"name": "Bloomreach DigitalData details ",
+	"description": "Details of DomainKey & ViewID in digitalData layer",
+	"bloomreachDigitalData": {
+		"canada": {
+			"viewId": "NEWARK_CA",
+			"domain": "newark"
+		},
+		"fr-CA": {
+			"viewId": "NEWARK_CA",
+			"domain": "newark"
+		},
+		"mexico": {
+			"viewId": "NEWARK_MX",
+			"domain": "newark_es"
+		},
+		"us": {
+			"viewId": "NEWARK_US",
+			"domain": "newark"
+		},
+		"en-MX": {
+			"viewId": "NEWARK_MX",
+			"domain": "newark"
+		},
+		"es-us": {
+			"viewId": "NEWARK_US",
+			"domain": "newark_es"
+		},
+		"pt-BR": {
+			"viewId": "NEWARK_US",
+			"domain": "newark"
+		},
+		"au": {
+			"viewId": "FARNELL_AU",
+			"domain": "element14"
+		},
+		"hk": {
+			"viewId": "FARNELL_HK",
+			"domain": "element14"
+		},
+		"in": {
+			"viewId": "FARNELL_IN",
+			"domain": "element14"
+		},
+		"kr": {
+			"viewId": "FARNELL_KR",
+			"domain": "element14"
+		},
+		"my": {
+			"viewId": "FARNELL_MY",
+			"domain": "element14"
+		},
+		"nz": {
+			"viewId": "FARNELL_NZ",
+			"domain": "element14"
+		},
+		"ph": {
+			"viewId": "FARNELL_PH",
+			"domain": "element14"
+		},
+		"sg": {
+			"viewId": "FARNELL_SG",
+			"domain": "element14"
+		},
+		"th": {
+			"viewId": "FARNELL_TH",
+			"domain": "element14"
+		},
+		"tw": {
+			"viewId": "FARNELL_TW",
+			"domain": "element14"
+		},
+		"en-TW": {
+			"viewId": "FARNELL_TW",
+			"domain": "element14"
+		},
+		"vn": {
+			"viewId": "FARNELL_VN",
+			"domain": "element14"
+		},
+		"at": {
+			"viewId": "FARNELL_AT",
+			"domain": "farnell_de"
+		},
+		"en-AT": {
+			"viewId": "FARNELL_AT",
+			"domain": "farnell"
+		},
+		"nl-BE": {
+			"viewId": "FARNELL_BE",
+			"domain": "farnell"
+		},
+		"fr-BE": {
+			"viewId": "FARNELL_BE",
+			"domain": "farnell_fr"
+		},
+		"en-BE": {
+			"viewId": "FARNELL_BE",
+			"domain": "farnell"
+		},
+		"bg": {
+			"viewId": "FARNELL_BG",
+			"domain": "farnell"
+		},
+		"de-CH": {
+			"viewId": "FARNELL_CH",
+			"domain": "farnell_de"
+		},
+		"fr-CH": {
+			"viewId": "FARNELL_CH",
+			"domain": "farnell_fr"
+		},
+		"en-CH": {
+			"viewId": "FARNELL_CH",
+			"domain": "farnell"
+		},
+		"cpc": {
+			"viewId": "FARNELL_CPC",
+			"domain": "farnellcpc"
+		},
+		"cpc-ie": {
+			"viewId": "FARNELL_CPCIE",
+			"domain": "farnellcpc"
+		},
+		"cz": {
+			"viewId": "FARNELL_CZ",
+			"domain": "farnell_cs"
+		},
+		"en-CZ": {
+			"viewId": "FARNELL_CZ",
+			"domain": "farnell"
+		},
+		"de": {
+			"viewId": "FARNELL_DE",
+			"domain": "farnell_de"
+		},
+		"en-DE": {
+			"viewId": "FARNELL_DE",
+			"domain": "farnell"
+		},
+		"dk": {
+			"viewId": "FARNELL_DK",
+			"domain": "farnell"
+		},
+		"en-DK": {
+			"viewId": "FARNELL_DK",
+			"domain": "farnell"
+		},
+		"fr": {
+			"viewId": "FARNELL_FR",
+			"domain": "farnell_fr"
+		},
+		"en-FR": {
+			"viewId": "FARNELL_FR",
+			"domain": "farnell"
+		},
+		"hu": {
+			"viewId": "FARNELL_HU",
+			"domain": "farnell"
+		},
+		"en-HU": {
+			"viewId": "FARNELL_HU",
+			"domain": "farnell"
+		},
+		"ie": {
+			"viewId": "FARNELL_IE",
+			"domain": "farnell"
+		},
+		"il": {
+			"viewId": "FARNELL_IL",
+			"domain": "farnell"
+		},
+		"it": {
+			"viewId": "FARNELL_IT",
+			"domain": "farnell_it"
+		},
+		"en-IT": {
+			"viewId": "FARNELL_IT",
+			"domain": "farnell"
+		},
+		"pl": {
+			"viewId": "FARNELL_PL",
+			"domain": "farnell_pl"
+		},
+		"en-PL": {
+			"viewId": "FARNELL_PL",
+			"domain": "farnell"
+		},
+		"uk": {
+			"viewId": "FARNELL_UK",
+			"domain": "farnell"
+		},
+		"nl": {
+			"viewId": "FARNELL_NL",
+			"domain": "farnell"
+		},
+		"en-NL": {
+			"viewId": "FARNELL_NL",
+			"domain": "farnell"
+		},
+		"fi": {
+			"viewId": "FARNELL_FI",
+			"domain": "farnell"
+		},
+		"en-FI": {
+			"viewId": "FARNELL_FI",
+			"domain": "farnell"
+		},
+		"lt": {
+			"viewId": "FARNELL_LT",
+			"domain": "farnell"
+		},
+		"lv": {
+			"viewId": "FARNELL_LV",
+			"domain": "farnell"
+		},
+		"no": {
+			"viewId": "FARNELL_NO",
+			"domain": "farnell"
+		},
+		"onecall": {
+			"viewId": "ONECALL_UK",
+			"domain": "farnell"
+		},
+		"pt": {
+			"viewId": "FARNELL_PT",
+			"domain": "farnell"
+		},
+		"ro": {
+			"viewId": "FARNELL_RO",
+			"domain": "farnell"
+		},
+		"ru": {
+			"viewId": "FARNELL_RU",
+			"domain": "farnell_ru"
+		},
+		"se": {
+			"viewId": "FARNELL_SE",
+			"domain": "farnell"
+		},
+		"si": {
+			"viewId": "FARNELL_SI",
+			"domain": "farnell"
+		},
+		"sk": {
+			"viewId": "FARNELL_SK",
+			"domain": "farnell"
+		},
+		"tr": {
+			"viewId": "FARNELL_TR",
+			"domain": "farnell"
+		},
+		"ee": {
+			"viewId": "FARNELL_EE",
+			"domain": "farnell"
+		},
+		"es": {
+			"viewId": "FARNELL_ES",
+			"domain": "farnell_es"
+		},
+		"en-ES": {
+			"viewId": "FARNELL_ES",
+			"domain": "farnell"
+		},
+		"export": {
+			"viewId": "FARNELL_EX",
+			"domain": "farnell"
+		}
+	}
+}

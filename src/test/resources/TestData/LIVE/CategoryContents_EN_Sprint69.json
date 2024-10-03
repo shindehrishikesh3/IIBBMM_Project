@@ -1,0 +1,57 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "DC / DC Converters - LED Driver",
+			"TITLE_LINK": "c/led-lighting-components/led-driver-ics/dc-dc-led-driver-ics",
+			"CONTENT": "Models that drive LED strings with a wide range of input and output voltages and constant-current outputs. High efficiency models and high power applications, wide temperature ranges and wet environment IP-rated models, dimming and remote controls, high MTBFs, open, short-circuit and over temperature protections, LED backlight drivers, PCB and panel-mount modules.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"LED": "c/development-boards-evaluation-tools/lighting-led-development-kits",
+				"remote controls": "c/audio-visual/home-audio-visual/remote-controls-accessories",
+				"LED backlight": "c/optoelectronics-displays/displays/lcd-displays"
+			}
+		},
+		{
+			"TITLE": "Detectors/Sensors",
+			"TITLE_LINK": "c/security/intrusion-detection/detectors-sensors",
+			"CONTENT": "White, ivory, grey and black AC mains and 24VDC PIR motion detectors including compact models, switches. Wall- and ceiling-mounting types. Dual Ultrasonic/PIR sensors. NEMA socket photocell kits, photocells with and without timers and Dusk-to-Dawn switches.Suppliers include Honeywell, Eterna, Panasonic EW, Danlers, Timeguard, Matilec, Hubbell Wiring Devices, Pyronix and BBV.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"switches": "c/switches-relays/switches"
+			}
+		},
+		{
+			"TITLE": "DC / DC Converters - Non Isolated Point of Load (POL) Adjustable Output",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/dc-dc-converters/dc-dc-non-isolated-board-mount-converters-fixed-output",
+			"CONTENT": "DOSA-compatible, rugged embedded converters for powering e.g. CPUs, programmable logic and mixed-signal systems, in distributed power architectures and other systems. Surface-mount and through-hole products. Programmable output voltages, On/Off control, Remote Sense and comprehensive internal protections, under-voltage lockout options. Compact, high-efficiency models with high output currents. Industrial, communications and consumer applications.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"CPU": "c/embedded-computers-education-maker-boards",
+				"Remote Sense": "c/wireless-modules-adaptors"
+				
+			}
+		},
+		{
+			"TITLE": "DC / DC Converters - Modules / DIN Rail / Front End",
+			"TITLE_LINK": "/c/power-line-protection/power-supplies/dc-dc-converters/isolated-din-rail-mount-dc-dc-converters",
+			"CONTENT": "Wide AC input desktop units, and converters with Australian, Euro, UK and US input plugs, with multiple DC output jacks. Fixed and adjustable output voltages, multiple outputs and low-voltage input models with car lighter connections available. Units with worldwide Medical approvals and non-standard connector options.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"battery supplies": "c/batteries-chargers",
+				"overvoltage protections":"c/automation-process-control/motors-motor-controls/protection-control-solutions/multi-voltage-relays"
+			}
+			
+		},
+		{
+			"TITLE": "Chemical Assortments and Kits",
+			"TITLE_LINK": "c/chemicals-adhesives/chemical-assortments-kits",
+			"CONTENT": "Use our Perchloride bath kits for copper etching. Our specialist cleaning products include polishing kits for hard metals, and optical fibre cable and connector cleaning kits that facilitate successful connector assembly. Skin care and safety product dispensers, flux applicators and electronic component tacking adhesives also available.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"cleaning products": "c/static-control-site-safety-clean-room-products"
+			}
+		}
+		
+	]
+}

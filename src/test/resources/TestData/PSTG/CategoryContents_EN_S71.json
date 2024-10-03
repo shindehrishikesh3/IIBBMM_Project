@@ -1,0 +1,98 @@
+{
+	"HEADERS": [
+		{
+			"TITLE": "Electromagnetic",
+			"TITLE_LINK": "c/security/access-control/locks-accessories/electromagnetic-locks",
+			"CONTENT": "Electromagnets for door locking and holding mechanisms for access control and fire security applications, turnstiles, medical applications, wind turbines, automatic handling equipment and office machines. Electromagnetic fire door retainers and 12/24V locks with or without monitoring. Electric surface door opener.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"door locking": "c/security/access-control/locks-accessories",
+				"fire security": "c/security/intrusion-detection/alarm-switches"
+			}
+		},
+		{
+			"TITLE": "Earthing",
+			"TITLE_LINK": "c/electrical/earthing",
+			"CONTENT": "Earthing straps which are designed to provide low impedance paths for EMC generated currents; they reduce EMC problems associated with conventional round-wire earth straps. Applications include sub chassis to main chassis, PCB to main board, enclosure panels and doors to main chassis, and CRT drive board to main chassis.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"EMC": "c/passive-components/emc-rfi-suppression",
+				"main chassis": "c/test-measurement/chassis-modules-controllers/chassis"
+			}
+		},
+		{
+			"TITLE": "Dusters",
+			"TITLE_LINK": "c/chemicals-adhesives/dusters",
+			"CONTENT": "Inert gas aerosols for drying operations or removing dust instantly and safely from most electrical and electronic equipment, even delicate or inaccessible areas. High pressure, invertible and low Global Warming Potential (GWP) versions available. Residue-free dusters that won’t damage surfaces.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"gas aerosols": "c/chemicals-adhesives/gas-cartridges-refills"
+			}
+		},
+		{
+			"TITLE": "Domestic Switches",
+			"TITLE_LINK": "c/electrical/domestic-switches",
+			"CONTENT": "Single gang tough plastic momentary non-latching switch for flush or surface mounting, labelled ‘PRESS TO EXIT’. Push switch, 250VAC 10A, single pole, Urea Formaldehyde. In-line switch for domestic use, white, 2A 240VAC.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Developers",
+			"TITLE_LINK": "c/chemicals-adhesives/developers",
+			"CONTENT": "An extensive range of chemicals used for manufacturing PCBs. Etching compounds including fine etch crystals and Ferric Chloride granules; PCB flux applicators that leave an anti-oxidising protective lacquer; photoresist developers including high-resolution and anti-foam types, and applicators. A deoxidising cleaner for PCBs is also available.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"PCBs": "c/connectors/pcb-receptacles",
+				"cleaner": "c/chemicals-adhesives/cleaners-degreasers"
+			}
+		},
+		{
+			"TITLE": "Line Reactors",
+			"TITLE_LINK": "c/power-line-protection/line-reactors",
+			"CONTENT": "Line reactors protect electronic equipment from incoming mains transients and variable speed drive harmonics. They prevent nuisance circuit breaker tripping and extend the life of switching components and motors. Line reactors can also limit line notching, inrush current and harmonic distortion, with low temperature rise and reduced losses.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"circuit breaker": "c/circuit-protection/circuit-breakers"
+			}
+		},
+		{
+			"TITLE": "Latches",
+			"TITLE_LINK": "c/security/access-control/locks-accessories/latches",
+			"CONTENT": "Insert, toggle, pawl, pin, slide, wing handle and triangle latches. Sealing covers and sealed levers. Compression, swell and over centre draw latches, lockable latches. Locking push to close types. Transport case locks and side-mounting grabber catches. Adjustable hinges and standard latch bolts. Ejector packages.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Sealing covers": "c/enclosures-racks-cabinets/enclosure-rack-cabinet-accessories"
+			}
+		},
+		{
+			"TITLE": "Lens",
+			"TITLE_LINK": "c/audio-visual/home-audio-visual/digital-cameras-optical-products/lenses",
+			"CONTENT": "High resolution manual iris megapixel lenses for professional CCD cameras and video equipment. Applications include machine vision, image processing, identification and automatic gauging. Also, lenses available for close-up and zoom for general inspection, documentation and visual aid applications.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"CCD cameras": "c/security/video-surveillance/cameras",
+				"video equipment": "c/audio-visual/home-audio-visual/digital-cameras-optical-products/cameras-digital"
+			}
+		},
+		{
+			"TITLE": "Line Conditioners",
+			"TITLE_LINK": "c/power-line-protection/line-conditioners",
+			"CONTENT": "Line conditioners that tightly regulate voltage while protecting office and home ICT and entertainment equipment from damage, degradation or malfunction from incoming mains noise, surges and sags. Models with multiple output sockets and LED status indication. High efficiencies and wide operating temperature ranges.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"regulate voltage": "c/development-boards-evaluation-tools/power-management-development-kits/power-management-development-kits-dc-dc",
+				"sockets": "c/connectors/ic-sockets"
+			}
+			
+		},
+		{
+			"TITLE": "Locks & Accessories",
+			"TITLE_LINK": "c/security/access-control/locks-accessories",
+			"CONTENT": "Triangle, square, pin and multipurpose keys. Toggle, pawl, compression, lockable, slide and triangle latches. Cylinders. Key and combination brass, stainless steel and aluminium padlocks and electromagnet locks. Codelocks, monitored locks and lever locks. Locking handles, hasps. Locking cables and bike locks. Circuit breaker lockouts. Hasps and Staples. Cam sets and positioning and control hinges.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"padlocks": "c/security/access-control/locks-accessories/padlocks",
+				"Circuit breaker": "c/circuit-protection/circuit-breakers"
+			}
+		}
+		]
+}

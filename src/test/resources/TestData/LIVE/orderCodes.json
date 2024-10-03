@@ -1,0 +1,22 @@
+{
+	"name": "order codes",
+	"description": "Order codes of different types",
+	"data": {
+		"sg": {
+			"instock": "1861417",
+			"instock2": "1861416"
+		},
+		"au": {
+			"instock": "1861417",
+			"instock2": "1861416"
+		},
+		"uk": {
+			"instock": "2447279",
+			"instock2": "2447596"
+		},
+		"us": {
+			"instock": "01P2081",
+			"instock2": "97W1815"
+		}
+	}
+}

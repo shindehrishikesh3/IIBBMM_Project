@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.018/cXML.dtd">
+<cXML payloadID="16-Jul-2021 15:24:54.b9ad712a-05de-4c6a-a4e2-406e5f23637b@procserve.com" xml:lang="en-UK" timestamp="16-Jul-2021 15:24:54">
+	<Header>
+		<From>
+			<Credential domain="DUNS">
+				<Identity>112233445</Identity>
+			</Credential>
+		</From>
+		<To>
+			<Credential domain="DUNS">
+				<Identity>998877665</Identity>
+			</Credential>
+		</To>
+		<Sender>
+			<Credential domain="DUNS">
+				<Identity>112233445</Identity>
+				<SharedSecret>orders2many</SharedSecret>
+			</Credential>
+			<UserAgent>ProcServe Business Catalogue 6.1.01.00</UserAgent>
+		</Sender>
+	</Header>
+	<Request deploymentMode="production">
+		<PunchOutSetupRequest operation="create">
+			<BuyerCookie>b9ad712a-05de-4c6a-a4e2-406e5f23637b</BuyerCookie>
+			<Extrinsic name="JPBCLoginName">Basware Test@xualaa</Extrinsic>
+			<Extrinsic name="User">Basware Test@xualaa</Extrinsic>
+			<BrowserFormPost>
+				<URL>https://buyers.procserveonline.com/punchout/punchout/shoppingBasketReturn?token=a07cb1bb-9917-47f7-9751-209a92da4d67</URL>
+			</BrowserFormPost>
+			<SupplierSetup>				<URL>https://onecall.farnell.com/webapp/wcs/stores/servlet/punchout/punchoutLogin?storeId=0</URL>
+			</SupplierSetup>
+		</PunchOutSetupRequest>
+	</Request>
+</cXML>

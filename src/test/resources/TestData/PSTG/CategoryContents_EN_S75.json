@@ -1,0 +1,87 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "Cameras",
+			"TITLE_LINK": "c/security/video-surveillance/cameras",
+			"CONTENT": "PCB-mounting and external C or CS style lens cameras, 12VDC and 240VAC operation, 1/3” sensor size, dummy camera domes, miniature encased and bullet-proof types, Conical pinhole lens cameras, mobile surveillance and monitoring cameras that transmit video and images over GPRS/EDGE networks.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "CCTV",
+			"TITLE_LINK": "c/security/video-surveillance/cameras",
+			"CONTENT": "External, miniature or PCB-mounting cameras, dummy camera domes, bullet-proof types, mounting kits, housings and brackets, video electronics, junction boxes, lenses including close up and macro types, monitors and PIR Autodiallers/alarms.<br>Suppliers include Defender Security, Videk, Addlestone Electronics, Genie CCTV, Computer and Direct Connect.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Defender Security": "b/defender-security",
+				"Videk": "b/videk"
+			}
+		},
+		{
+			"TITLE": "Ceiling Roses and Lampholders",
+			"TITLE_LINK": "c/electrical/ceiling-roses-lampholders",
+			"CONTENT": "Straight and angled 2A 250VAC white batten lampholders with HO skirt. 4-terminal white ceiling rose with clear base and pre-cut aperture for easy lighting installation, clear markings and terminal layout allowing cables to be cut to even length.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"lighting installation": "c/lighting-products"
+			}
+		},
+		{
+			"TITLE": "Cleaners",
+			"TITLE_LINK": "c/chemicals-adhesives/cleaners-degreasers",
+			"CONTENT": "Products for maintaining electronics components, assemblies and heavier industrial items. Adhesive removers, lubricants, conformal coatings removal, defluxers, cleaners, cooling sprays, solvents for PCBs and components. Degreasers and cleaners for metals, mechanical assemblies, engineering and food industries; cleaners for contacts, screens, soldering tips, whiteboards, paint, graffiti, mould release agents; ultrasonic cleaner.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Adhesive": "c/chemicals-adhesives/adhesives-glues",
+				"lubricants": "c/chemicals-adhesives/lubricants-greases-cutting-fluids",
+				"coatings": "c/chemicals-adhesives/paints-coatings",
+				"cooling sprays": "c/cooling-thermal-management"				
+			}
+		},
+		{
+			"TITLE": "DC / DC Converters - Isolated Board Mount Multi Output",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/dc-dc-converters/dc-dc-non-isolated-board-mount-converters-fixed-output",
+			"CONTENT": "Through-hole or SMD encapsulated or enclosed open frame converters with single or multiple outputs, small footprint. High isolation, efficiencies and MTBFs, wide operating temperature. Wide range of input and output voltages and power ratings. Volume applications include point-of-load power conversion, ground loop elimination, noise reduction and digital interfacing.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"SMD": "c/passive-components/resistors-fixed-value/chip-smd-resistors"
+			}
+		},
+		{
+			"TITLE": "DC / DC Converters - Linear Regulator Drop In Replacement",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/dc-dc-converters/linear-regulator-replacements",
+			"CONTENT": "Wide input range integrated switching regulators including Plus-to-Minus ISRs: More efficient, more accurate and lower standby current than the linear regulators they replace, with no external capacitors. Variety of industry-standard voltages. High efficiencies and small footprints without heatsinks. Wide operating temperature ranges, thermal shutdown and short-circuit protection. LM78XX pin/size-compatible alternatives.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"capacitors": "c/semiconductors-ics"
+			}
+		},	
+		{
+			"TITLE": "DC to DC Converters",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/dc-dc-converters",
+			"CONTENT": "SIP and DIP Board-mounting packages, encapsulated DC-DC converters suitable for providing point-of-load supplies for distributed power systems across PCBs. High galvanic noise-reduction isolation with choices of input and output voltages; single or multiple outputs. 1W or 3W output power. Wide temperature performance -40°C to +85°C at 1W option.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"noise-reduction isolation": "c/audio-visual/pro-audio"
+			}
+		},
+		{
+			"TITLE": "DC/AC Inverters",
+			"TITLE_LINK": "c/power-line-protection/dc-ac-inverters",
+			"CONTENT": "Operation from 12V, 24V or 48V supplies such as batteries where no mains is available, to power 230VAC domestic electronics, tools, mobile applications and some industrial equipment. Range of output power ratings. Battery clip or car lighter input connectors, and 2 or 3 pin output sockets.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"car lighter input connectors": "c/cable-wire-cable-assemblies/cable-assemblies/battery-cable-assemblies"
+			}
+		},
+		{
+			"TITLE": "DC / DC Converters - External Plug In Adaptor",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/dc-dc-converters/dc-dc-external-plug-in-adaptor-converters",
+			"CONTENT": "USB power supplies mounted on car lighter plugs and regulated car lighter supplies with choice of DC outputs and connectors. Car lighter supply with micro-USB connector for fast portable device charging – meets European standard for mobile phone charging. Also suitable for 24V truck and camper applications.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"micro-USB connector": "c/connectors/usb-connectors-adapters"
+			}
+		}		
+	]
+}

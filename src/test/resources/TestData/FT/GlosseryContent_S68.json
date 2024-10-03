@@ -1,0 +1,57 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "Band-Elimination Filter",
+      "TITLE_LINK": "band-elimination-filter-definition",
+      "CONTENT": "Band-Elimination Filter<br>A band-elimination filter prevents a receiving unit from recognising a specific range of frequencies.<br>Such filters find wide application in satellite receivers operating in the C Band; this band is a range of frequencies between 4 and 8 MHz, historically used by long range satellite broadcasts, specifically TV and radio stations. Its primary benefit was that it made a large range of stations available to users with C Band satellite dishes.<br>However, in recent years, traffic has been added to this band, particularly from radar and WiMAX installations. Studies have shown that a fixed WiMAX transmitter can potentially cause interference with C Band frequencies within a 12 km radius. This potential disruption to the quality of a satellite television signal has necessitated the introduction of a specific type of Band Pass filter – the C Band Interference Filter for Satellite.<br>This device is a band pass filter that allows predefined signals, in this case certain pre-defined C Band frequencies, to pass through, while blocking any other signals. The interference filter is set to only pass through a tight and specific range of C Band frequencies. The C Band frequencies most often used by WiMAX and radar are explicitly attenuated.<br>Both active and passive band pass filters are available. The C-band filter is usually a passive type which does not require an external power source, and usually comprises only passive components like capacitors and inductors. Active filters, needing an external power source, are usually utilised in highly specific cases.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "filter" : "w/c/passive-components/filters",
+          "band pass filter"  : "c/passive-components/filters/rf-filters"
+       }
+    },
+    {
+      "TITLE": "Application specific standard product",
+      "TITLE_LINK" :"application-specific-standard-product-definition",
+      "CONTENT": "Application specific standard product<br>An application specific standard product is a semiconductor device integrated product that is designed for a particular function and can be sold to more than one end user. It is a general purpose device that caters to a wide market. It is used in a wide range of fields including communications, automotive, consumer electronics, computers and industrial applications.<br>Application specific standard products control many basic functions of embedded systems. They can be found in encoding and decoding chips, USB interfaces, graphics accelerators, multimedia chips, data compression circuits, forward error correction devices, smart card chips, chip sets for cellular radio, serial-ATA and Ethernet interfaces wireless LAN chips and driver circuits for power semiconductor devices, to name just a few examples.<br>While application specific standard products are initially designed and optimised for a highly specific task by one manufacturer, others can incorporate them into their own products. This can significantly reduce the cost and effort of designing new technologies and allow companies to bring their products to market more quickly.<br>Current market trends mean that such generic semiconductor devices are in growing demand. The typical life spans of electronic devices are becoming shorter as technology manufacturers continue to rapidly innovate and launch new offerings within months. The accelerating pace of production is creating more demand for cheap off-the-shelf components.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "semiconductor" : "c/semiconductors-ics",
+          "manufacturers"  : "manufacturers"
+       }
+    },
+    {
+      "TITLE": "Advanced very large-scale integration",
+      "TITLE_LINK" :"advanced-very-large-scale-integration-definition",
+      "CONTENT": "Advanced Very Large Scale Integration<br>Advanced very large-scale integration refers to the process of fabricating integrated circuits by combining thousands of transistors on a single silicon semiconductor microchip. Advanced very large-scale integration is the successor to large scale-integration, medium-scale integration and small-scale integration technologies.<br>The idea dates back to 1958 when engineer Jack Kilby found a way to build smaller electrical circuits by making all the components and the chip out of the same block of semiconductor material. Kilby's work overcame a number of problems that engineers at the time came up against when trying to build advanced circuitry. The first problem was that bigger circuits required more components and connections. As these circuits grew in complexity, it became harder, if not impossible, to guarantee that each tiny component could be assembled without generating a single faulty connection.<br>The second key difficulty was the size of the circuits. A complex circuit, like a computer, was dependent on speed. If the components were too large or required long wires, the signals would not be able to travel fast enough through the circuit.<br>Kilby's innovation led to the creation of the first advanced level microprocessors in the late 1970s. It is now one of the most widely used technologies for microchip processors, integrated circuits and component designing. While technology was initially designed to support hundreds of thousands of transistors, modern microchips can now support billions of them.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "semiconductor" : "c/semiconductors-discretes",
+          "circuits"  : "c/circuit-protection/circuit-breakers",
+		  "computer"  : "c/office-computer-networking-products/computer-products",
+		  "microprocessors"  : "c/semiconductors-ics/microprocessors-mpu"
+       }
+    },
+    {
+      "TITLE": "Absolute Maximum Rating",
+      "TITLE_LINK": "absolute-maximum-rating-definition",
+      "CONTENT": "Absolute Maximum Rating<br>Analog Devices comments on the topic of Absolute Maximum Rating. They point out that the performance shown in the graphs, tables and plots of most manufacturers’ datasheets is predictable and easy to replicate in new designs, as long as the recommended operating conditions are followed. Additionally, manufacturers specify maxima and minima which are guaranteed by design or through exhaustive testing and yield analysis.<br>However, datasheets also state ABSOLUTE MAXIMUM RATINGS (ABS) – usually capitalised, as here, to reflect their importance – to specify the maximum values a device can tolerate, but not operate at.<br>Analog Devices emphasises the importance of always operating components safely below ABSOLUTE MAXIMUM RATINGS limits, because of the likelihood of permanent damage:<br>“Stresses above those listed under Absolute Maximum Ratings may cause permanent damage to the device. This is a stress rating only; functional operation of the device at these or any other conditions above those indicated in the operational section of this specification is not implied. Exposure to absolute maximum rating conditions for extended periods may affect device reliability.”<br>A good general engineering practice is to build margin into your designs. Resist the temptation to operate near the very edge of a device's ABS ratings, as this is likely to cause problems during the product’s operational life, especially related to reliability.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "manufacturers" : "manufacturers",
+          "Analog Devices"  : "b/analog-devices"
+       }
+    },
+    {
+      "TITLE": "Actuating force",
+      "TITLE_LINK": "actuating-force-definition",
+      "CONTENT": "Actuating force<br>The force that must be applied to an actuator to complete the intended operation. The computer keyboard provides an example of an everyday object where actuation force matters to the user.<br>A keyboard’s Activation Point (or Operating Position) is the key travel distance point at which the key is recognized by the keyboard. Actuation force is the force required at this point. In other words, it is the total amount of input force a user must exert to cause any given key to activate consistently. While the amount of force actually needed to press a key down is probably somewhat less important than either ghosting or noise, over time it can have quite a significant impact on usability. Keys that are too easy to press can be sensitive to accidental triggering, while keys that are too stiff can be particularly exhausting after long typing sessions.<br>Tom’s Hardware blog describes a method for testing keyboard key actuating force: Place each keyboard on a completely flat surface and then adjust it so that the tops of the test keys are perfectly level. Then add standard metric weights to each key until it activates. Tom’s Hardware performed this test on five randomly-selected standard keys (but not the space bar) as part of a comparative review of different keyboards available on the market at the time of the test.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "computer keyboard" : "w/c/office-computer-networking-products/computer-products/keyboard",
+          "Tom’s Hardware blog"  : "https://www.tomshardware.com/reviews/mechanical-keyboard-razer-logitech-gigabyte,3505-8.html",
+		  "metric weights"  : "w/c/tools-production-supplies/measurement-inspection"
+       }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "order codes",
+	"description": "Order codes of different types",
+	"data": {
+		"us": {
+			"rereel": "84R0167",
+			"cuttape": "44W4474"			
+		}
+	}
+}

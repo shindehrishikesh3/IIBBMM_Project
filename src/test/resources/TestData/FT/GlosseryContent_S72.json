@@ -1,0 +1,52 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "Temperature Sensor",
+      "TITLE_LINK": "temperature-sensor-definition",
+      "CONTENT": "Temperature Sensor<br>Temperature sensors convert real-world temperature values into proportional electrical signals for use in electronic control applications. For decades, these devices have been vital components within many types of process control and manufacturing systems, as well control systems for cars, aeroplanes and other applications. The rise of the IoT has brought many new applications, such as environmental monitoring.<br>In the earlier days of process control, a temperature sensor’s signal was typically fed to an analogue process control unit which in turn drove an actuator such as a valve or pump. Today, a temperature sensor output is usually digitised and connected, as one of many, to a PLC or industrial computer.<br>There are four common temperature sensor technologies:<br>Resistance temperature detector (RTD), which tracks changing temperature with a correlated change in resistance value<br>Thermocouples that comprise two dissimilar electrical conductors forming electrical junctions at differing temperatures. A thermoelectric effect produces a temperature-dependent voltage which can be interpreted to measure temperature.<br>A Negative Temperature Coefficient (NTC) thermistor is a thermally sensitive resistor that exhibits a large, predictable, and precise change in resistance correlated to variations in temperature.<br>Semiconductor-based temperature sensors can be implemented on integrated circuits. They comprise two identical diodes with temperature-sensitive voltage vs current characteristics that can be used to monitor changes in temperature.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "Temperature sensors" : "c/sensors-transducers/sensors/temperature-sensors",
+          "Thermocouples"  : "c/sensors-transducers/sensors/temperature-sensors/thermocouples",
+          "thermistor"  : "c/circuit-protection/thermistors",
+          "integrated circuits"  : "c/semiconductors-ics"
+       }
+    },
+    {
+      "TITLE": "Tapped Resistor",
+      "TITLE_LINK" :"tapped-resistor-definition",
+      "CONTENT": "Tapped Resistor<br>There are three resistor types: Fixed, variable and tapped.<br>A fixed resistor is a two-terminal device whose resistance value cannot be changed. Variable resistors divide into rheostats and potentiometers. Rheostats usually have two connections – one fixed and one moveable – while a potentiometer has two fixed and one movable connection. Typically, rheostats are used in high-current applications such as lighting control, while potentiometers are used as voltage dividers in electronic circuits, for example as audio amplifier volume controls.<br>A tapped resistor has a contact at either end of its resistance path, and one or more taps at intervals along the path. These are set to pick up resistance and therefore voltage values as required. Sometimes the taps can be adjustable to pick up any resistance value (within the limits of the resistor’s range) as required.<br>Originally, tapped resistors were available as discrete components, and could be physically large, wire-wound devices. Today, however, they are also available as PCB-mounting devices such as Vishay’s CTR series. These are thin film, centre-tapped resistor divider networks that can handle power levels to 250 mW. They can be used either as single resistors, or as two resistors with a centre tap.<br>Applications are mainly in amplifier feedback circuits where ratio matching, high power and tracking between two resistors is critical. Resistance ranges are from 10 Ω to 1 MΩ.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "fixed resistor" : "c/passive-components/resistors-fixed-value",
+          "Rheostats"  : "c/passive-components/rheostats",
+		  "amplifier"  : "c/semiconductors-ics/amplifiers-comparators"
+       }
+    },
+    {
+      "TITLE": "What is Small-Scale Integration",
+      "TITLE_LINK" :"small-scale-integration-definition",
+      "CONTENT": "What is Small-Scale Integration<br>The highly functional, compact electronic equipment – from mobile phones to control systems or data centre servers – found in factories, offices, shopping centres, our homes, our pockets and even within our bodies owes its existence to integrated circuits, or ICs. ICs achieve high functional density for their host systems by integrating a large number of transistors and electronic circuits onto a semiconductor substrate, usually silicon. With this integration, ICs can offer functional building blocks that are orders of magnitude smaller, faster and cheaper than equivalent solutions implemented with discrete components.<br>JEDEC defines an integrated circuit as 'A circuit in which all or some of the circuit elements are inseparably associated and electrically interconnected so that it is considered as indivisible for the purposes of construction and commerce.'<br>Although many different technologies for manufacturing ICs are available, in general usage Integrated Circuit refers to the single-piece circuit construction originally known as a monolithic integrated circuit.<br>In the early days of simple integrated circuits, the technology's large scale limited each chip to only a few transistors, and the low degree of integration meant the design process was relatively simple. Manufacturing yields were also quite low by today's standards. As the technology progressed, millions, then billions of transistors could be placed on one chip, and good designs required thorough planning, giving rise to the field of Electronic Design Automation, or EDA.<br>Against this background of growth, chips with 1 to 10 transistors, and 1 to 12 logic gates, appeared in 1964. This level of integration is referred to as 'small-scale integration'.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "integrated circuits" : "c/semiconductors-ics",
+          "transistors"  : "c/semiconductors-discretes/transistors"
+       }
+    },
+    {
+      "TITLE": "Satellite Eclipse",
+      "TITLE_LINK": "satellite-eclipse-definition",
+      "CONTENT": "Satellite Eclipse<br>Satellite eclipses occur when the Earth blocks sunlight from reaching the satellite. Satellites orbiting the Earth routinely pass through a shadow region on the opposite side of the planet to the Sun, causing this loss of contact.<br>The Sun's radiation is the only resource that is usually needed for a satellite to function. The Sun's rays fall on the satellite's solar panels. These panels are comprised of photovoltaic materials such as silicon which absorb photons from the sunlight. Once absorbed, the photons excite electrons in the material and generate electrical current. The panels are packed with thousands of cells that are arranged to optimise the amount of power generated in order to produce the amount of electric power needed for a satellite to function and to meet the power demands of its on-board instruments.<br>Depending on the shape of the satellite's orbit, eclipses can happen every few hours or a number of times a year. During an eclipse the satellite's solar panels will not be able to produce the electricity it needs to power itself. Under these conditions, the satellite might not only stop functioning but would also be at risk of freezing in the sub-zero temperatures of space. Satellites are fitted with batteries to guard against such critical failures.",
+      "HYPERLINK?": false
+    },
+    {
+      "TITLE": "Tertiary Winding",
+      "TITLE_LINK": "tertiary-winding-definition",
+      "CONTENT": "Tertiary Winding<br>Some high-rating transformers use an extra or tertiary winding in addition to their primary and secondary windings. Such transformers are known as tertiary or three-winding types, and have several applications:<br>If a transformer has to supply an additional load which must be insulated from the secondary winding, the tertiary winding can support this load.<br>Phase compensating devices can be supplied by a three-winding transformer’s tertiary winding, which operates at a different voltage to the primary and secondary<br>The tertiary winding can be used as a voltage coil in a test transformer<br>Three supply systems operating at different voltages can be interconnected using a three-winding transformer.<br>Three-winding transformers can be used to load large split-winding generators<br>Substation requirements for a voltage differing from the primary and secondary windings’ can be met using a three-winding transformer<br>A tertiary winding connected in delta reduces the impedance offered to zero sequence currents so that a larger earth fault current flows for proper operation of protective equipment. For unbalanced loads it limits the voltage imbalance and permits the flow of third harmonic current to reduce harmonic voltage.<br>The KVA rating of the tertiary winding will be a very small fraction of the main transformer’s. To allow for possible short-circuit conditions, the tertiary is generally designed to have a rating about one-third of the main winding’s rating.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "transformers" : "c/transformers"
+       }
+    }
+  ]
+}

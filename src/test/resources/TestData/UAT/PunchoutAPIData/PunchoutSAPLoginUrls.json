@@ -1,0 +1,15 @@
+{
+	"name": "OCI PunchoutSAPLogin URLs",
+	"description": "OCI PunchoutSAPLogin URLs for different stores",
+	"PunchoutSAPLoginUrls": {
+		"uk": {
+			"anonymous": "https://www-uk-uatprdeu.farnell.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=1655997843&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp"
+		},
+		"sg": {
+			"anonymous": "https://www-sg-uatprdap.element14.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=1657293720&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp"
+		},
+		"us": {
+			"anonymous": "https://www-uatprdus.newark.com/webapp/wcs/stores/servlet/punchoutSAPLogin?MPID=1657294032&HOOK_URL=http://e14-mb-vft-ecweb-01.premierfarnell.net:8080/EprocTester/punchBusterOrder.jsp"
+		}
+	}
+}

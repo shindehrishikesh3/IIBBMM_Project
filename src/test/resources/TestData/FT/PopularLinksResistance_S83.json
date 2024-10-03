@@ -1,0 +1,160 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "120 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+      "CONTENT": "1 ohm resistor, 150 ohm resistor, 1m resistor, 1k resistor, 20k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"1 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+        "150 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+        "1m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+        "1k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+        "20k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm"
+      }
+    },
+    {
+      "TITLE": "150 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+      "CONTENT": "1 ohm resistor, 120 ohm resistor, 1m resistor, 1k resistor, 20k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"1 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+        "120 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+        "1m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+        "1k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+        "20k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm"
+      }
+    },
+    {
+      "TITLE": "1k resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+      "CONTENT": "1 ohm resistor, 120 ohm resistor, 150 ohm resistor, 1m resistor, 20k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"1 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+        "120 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+        "150 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+        "1m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+        "20k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm"
+      }
+    },
+    {
+      "TITLE": "1m resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+      "CONTENT": "1 ohm resistor, 120 ohm resistor, 150 ohm resistor, 1k resistor, 20k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"1 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+        "120 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+        "150 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+        "1k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+        "20k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm"
+      }
+    },
+    {
+      "TITLE": "1 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+      "CONTENT": "120 ohm resistor, 150 ohm resistor, 1m resistor, 1k resistor, 20k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+        "120 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+        "150 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+        "1m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+        "1k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm",
+        "20k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm"
+      }
+    },
+    {
+      "TITLE": "20k resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=20kohm",
+      "CONTENT": "1 ohm resistor, 120 ohm resistor, 150 ohm resistor, 1m resistor, 1k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"1 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1ohm",
+        "120 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=120ohm",
+        "150 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=150ohm",
+        "1m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1mohm",
+        "1k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1kohm"
+      }
+    },
+    {
+      "TITLE": "220k resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm",
+      "CONTENT": "22 ohm resistor, 220 ohm resistor, 250 ohm resistor, 2k resistor, 27k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"22 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+        "220 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+        "250 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+        "2k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+        "27k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm"
+      }
+    },
+    {
+      "TITLE": "220 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+      "CONTENT": "22 ohm resistor, 250 ohm resistor, 2k resistor, 27k resistor, 220k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"22 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+        "250 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+        "2k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+        "27k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm",
+        "220k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm"
+      }
+    },
+    {
+      "TITLE": "22 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+      "CONTENT": "220 ohm resistor, 250 ohm resistor, 2k resistor, 27k resistor, 220k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"220 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+        "250 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+        "2k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+        "27k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm",
+        "220k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm"
+      }
+    },
+    {
+      "TITLE": "250 ohm resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+      "CONTENT": "22 ohm resistor, 220 ohm resistor, 2k resistor, 27k resistor, 220k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"22 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+		"220 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+        "2k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+        "27k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm",
+        "220k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm"
+      }
+    },
+    {
+      "TITLE": "27k resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm",
+      "CONTENT": "22 ohm resistor, 220 ohm resistor, 250 ohm resistor, 2k resistor, 220k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"22 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+        "220 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+        "250 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+        "2k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+        "220k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm"
+      }
+    },
+    {
+      "TITLE": "2k resistor",
+      "TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=2kohm",
+      "CONTENT": "22 ohm resistor, 220 ohm resistor, 250 ohm resistor, 27k resistor, 220k resistor",
+      "HYPERLINK?": true,
+      "LINKS": {
+		"22 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=22ohm",
+		"220 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220ohm",
+		"250 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=250ohm",
+        "27k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=27kohm",
+        "220k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=220kohm"
+      }
+    }
+  ]
+}

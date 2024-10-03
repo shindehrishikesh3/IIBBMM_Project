@@ -1,0 +1,59 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "What is Acceptor Impurity",
+      "TITLE_LINK": "acceptor-impurity-definition",
+      "CONTENT": "What is Acceptor Impurity<br>An acceptor impurity is a physical material which, when added to a semiconductor, can form a P-type region by creating positive charges or holes in semiconductor materials such as silicon or germanium.<br>When a small quantity of impurity is added to a semiconductor to contribute either free electrons or holes in this way, it changes the semiconductor’s conducting properties. This process is known as doping the semiconductor.<br>If a trivalent impurity – i.e. an impurity containing atoms with three valence electrons - is added to an intrinsic semiconductor, then excess holes will be created in the crystal. This is because when a trivalent impurity is added to the semiconductor crystal, the trivalent atoms will replace some of the tetravalent semiconductor atoms. The three valance electrons of a trivalent impurity atom will bond with three neighbouring semiconductor atoms. Hence, there will be a lack of an electron in one bond of the fourth neighbouring semiconductor atom which contributes a hole to the crystal.<br>Since trivalent impurities contribute excess holes to semiconductor crystal, and these holes can accept electrons, these impurities are referred as acceptor impurities. As the holes virtually carry positive charge, the said impurities are referred as positive - type or p type impurities and the semiconductor with p type impurities is called a p type semiconductor.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "semiconductor" : "c/semiconductors-ics",
+          "electrons"  : "c/semiconductors-discretes/electron-tubes"
+       }
+    },
+    {
+      "TITLE": "What is a Cable jacket",
+      "TITLE_LINK" :"cable-jacket-definition",
+      "CONTENT": "What is a Cable jacket<br>Cable jackets protect the enclosed cable shielding and conductors from mechanical damage during and after installation.<br>Jackets can be made of different materials depending on the nature of the cable and the environment it is expected to be exposed to. In most exterior applications, a physically robust cable jacket will usually be necessary to protect against harsh surroundings. Jackets can also be modified to contend with a variety of other challenges such as moisture, flames, temperature, oil, deformation, chemicals, ultraviolet radiation and ozone.<br>A number of different materials can be employed. For example, thermoplastics are often used to make jackets. These materials react to temperature, softening when heated and hardening when cooled. There are many different types of thermoplastics, each with their own set of characteristics. Polyvinylchloride is a rugged, flexible, flame and oil resistant and usually low-cost substance that is suitable for a variety of environments and applications.<br>Thermoset plastics are a group of compounds that can be hardened or set by a chemical process, vulcanisation or irradiation in a process known as crosslinking. Crosslinking can be used to create a range of synthetic rubbers with varying properties. Chlorinated polyethylene elastomers and resins have useful physical and mechanical properties such as resistance to oils, temperature, chemicals and the weather. They also offer compression set resistance, flame retardancy, tensile strength and abrasion resistance.<br>Finally, fibre jackets are used in high temperature applications due to their superior heat resistance.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "cable shielding" : "c/cable-wire-cable-assemblies/cable-management/sleeving-tubing",
+          "thermoplastics"  : "c/connectors/automotive-connectors-components/automotive-connector-accessories",
+		  "rubbers"  : "c/office-computer-networking-products/office-stationery/rubber-bands"
+       }
+    },
+    {
+      "TITLE": "What is a Paired cable",
+      "TITLE_LINK" :"paired-cable-definition",
+      "CONTENT": "What is a Paired cable<br>A paired cable is a type of cable made by putting two separate insulated copper wires together in a twisted fashion and running them parallel to each other. By twisting the wires together electromagnetic induction can be reduced. Different types of paired cables can be made by varying the wire gauge for the inner conductors and the number of times the wires are twisted per inch.<br>This type of cable is widely used in various kinds of data and voice systems.<br>Paired cables also come in shielded and unshielded varieties. A shielded cable encases the wires in a conducting shield which provides extra protection from electromagnetic interference. By contrast, unshielded cables do not rely on a physical barrier to block interference. They instead rely on balancing and filtering techniques to cancel out the noise caused by electromagnetic induction.<br>Unshielded cables are generally easier to maintain than shielded ones. The quality of the signals transmitted along shielded cables can be compromised if the insulating foil becomes damaged or the cable is combined with improperly shielded connectors, hardware or outlets. Also, shielded cabling systems require good grounding and earthing practices to be in place to prevent emissions and interference. This problem is more pressing for longer cables as grounding can become ineffective at a certain length.<br>On the other hand, unshielded cables are relatively lightweight, thin and flexible. They have fewer vulnerabilities and are easier to install.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "copper wires" : "c/cable-wire-cable-assemblies/tinned-copper-wire",
+          "shielded cable"  : "c/cable-wire-cable-assemblies/ribbon-cable-flat-cable",
+		  "cables"  : "w/c/cable-wire-cable-assemblies"
+       }
+    },
+    {
+      "TITLE": "What is Small-Scale Integration",
+      "TITLE_LINK": "small-scale-integration-definition",
+      "CONTENT": "What is Small-Scale Integration<br>The highly functional, compact electronic equipment – from mobile phones to control systems or data centre servers – found in factories, offices, shopping centres, our homes, our pockets and even within our bodies owes its existence to integrated circuits, or ICs. ICs achieve high functional density for their host systems by integrating a large number of transistors and electronic circuits onto a semiconductor substrate, usually silicon. With this integration, ICs can offer functional building blocks that are orders of magnitude smaller, faster and cheaper than equivalent solutions implemented with discrete components.<br>JEDEC defines an integrated circuit as 'A circuit in which all or some of the circuit elements are inseparably associated and electrically interconnected so that it is considered as indivisible for the purposes of construction and commerce.'<br>Although many different technologies for manufacturing ICs are available, in general usage Integrated Circuit refers to the single-piece circuit construction originally known as a monolithic integrated circuit.<br>In the early days of simple integrated circuits, the technology's large scale limited each chip to only a few transistors, and the low degree of integration meant the design process was relatively simple. Manufacturing yields were also quite low by today's standards. As the technology progressed, millions, then billions of transistors could be placed on one chip, and good designs required thorough planning, giving rise to the field of Electronic Design Automation, or EDA.<br>Against this background of growth, chips with 1 to 10 transistors, and 1 to 12 logic gates, appeared in 1964. This level of integration is referred to as 'small-scale integration'.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "servers" : "c/automation-process-control/network-control/serial-device-servers",
+          "integrated circuits"  : "c/semiconductors-ics/more-integrated-circuits",
+		  "manufacturing ICs"  : "c/semiconductors-ics",
+		  "transistors"  : "c/semiconductors-discretes/transistors"
+       }
+    },
+    {
+      "TITLE": "Z-parameters",
+      "TITLE_LINK": "z-parameters-definition",
+      "CONTENT": "Z-parameters<br>Impedance parameters or Z-parameters (the elements of an impedance matrix or Z-matrix) are properties used in electrical engineering, electronic engineering, and communication systems engineering to describe the electrical behaviour of linear electrical networks that can be regarded as black boxes with several ports. They also describe the small-signal (linearized) response of non-linear networks. They are members of a family of similar parameters used in electronic engineering, other examples being: S-parameters, Y-parameters, H-parameters, T-parameters or ABCD-parameters.<br>Z-parameters are also known as open-circuit impedance parameters as they are calculated under open circuit conditions. i.e., Ix=0, where x=1,2 refer to input and output currents flowing through the ports (of a two-port network in this case) respectively. For a generic multi-port network definition, it is assumed that each of the ports is allocated an integer n ranging from 1 to N, where N is the total number of ports. For port n, the associated Z-parameter definition is in terms of the port current and port voltage, In and Vn respectively.<br>For all ports the voltages may be defined in terms of the Z-parameter matrix and the currents by the following matrix equation:<br>V = ZI<br>Where Z is an N × N matrix whose elements can be indexed using conventional matrix notation. Generally, the elements of the Z-parameter matrix are complex numbers and functions of frequency. For a one-port network, the Z-matrix reduces to a single element, being the ordinary impedance measured between the two terminals. The Z-parameters are also known as the open circuit parameters because they are measured or calculated by applying current to one port and determining the resulting voltages at all the ports while the undriven ports are terminated into an open circuit.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "networks" : "c/test-measurement/network-data-communications",
+          "circuit"  : "c/semiconductors-ics/more-integrated-circuits",
+		  "determining the resulting voltages"  : "c/switches-relays/relays/voltage-monitoring-relays"
+       }
+    }
+  ]
+}

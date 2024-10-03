@@ -1,0 +1,111 @@
+{
+	"HEADERS": [
+		{
+			"TITLE": "Raspberry PI",
+			"TITLE_LINK": "/c/semiconductors-ics/microcontrollers?brand=raspberry-pi",
+			"CONTENT": "The Raspberry Pi RP2040: A high performance, low cost entry into microcontroller capabilities<br>The RP2040 has features to suit professional users and beginners alike<br>As the workhorses that power the digital transformation of our world, microcontrollers outsell more powerful microprocessor types by a factor of ten to one. And Raspberry Pi’s RP2040, with its signature values of high performance, low cost, and ease of use, brings the best of microcontroller technology to users of all types.<br>With a large on-chip memory, symmetric dual-core processor complex, deterministic bus fabric, and rich peripheral set augmented with Raspberry Pi’s unique Programmable I/O (PIO) subsystem, it provides professional users with unrivalled power and flexibility. Meanwhile, it has the lowest possible barrier to entry for beginners and hobbyist users, with its detailed documentation, polished MicroPython port, and UF2 bootloader in ROM.<br>RP2040 Microcontroller hardware<br>RP2040 is a stateless device, with support for cached execute-in-place from external QSPI memory. This design decision allows you to choose the appropriate density of non-volatile storage for your application, and to benefit from the low pricing of commodity Flash parts.<br>RP2040 is manufactured on a modern 40nm process node, delivering high performance, low dynamic power consumption, and low leakage, with a variety of low-power modes to support extended-duration operation on battery power.<br>Key features:<br>Dual ARM Cortex-M0+ @ 133MHz<br>264kB on-chip SRAM in six independent banks<br>Support for up to 16MB of off-chip Flash memory via dedicated QSPI bus<br>DMA controller<br>Fully-connected AHB crossbar<br>Interpolator and integer divider peripherals<br>On-chip programmable LDO to generate core voltage<br>2 on-chip PLLs to generate USB and core clocks<br>30 GPIO pins, 4 of which can be used as analogue inputs<br>Peripherals<br>2 UARTs<br>2 SPI controllers<br>2 I2C controllers<br>16 PWM channels<br>USB 1.1 controller and PHY, with host and device support<br>8 PIO state machines<br>Development tools and documentation<br>Plenty of development tools are available to support a wide range of applications. Downloadable KiCAD files with schematic, mechanical, and BOM details for the board and a VGA carrier are available. There is also a datasheet for the device, and a ‘Hardware design with RP2040’ document.<br>The Raspberry Pi Pico is a low cost yet flexible development platform, carrying an RP2040 with 2MB Flash. It has a Micro-USB B port for power, data, and reprogramming the Flash. Configured as a 40 pin 21x51 ‘DIP’ style 1 mm thick PCB with 0.1” through-hole pins, it exposes 26 multi-function 3.3V general purpose I/O (GPIO) lines. It also features a 3-pin ARM Serial Wire Debug (SWD) port, and a simple yet highly flexible power supply architecture..<br>The Raspberry Pi Pico W board, with a 2.4GHz wireless 802.11n interface is also available, for users with wireless applications. Documentation for this board includes a datasheet and documentation describing how to get the Pico W online with C/C++ or MicroPython.<br>Other software examples and documentation are available, including ‘Getting started with Raspberry Pi Pico’. This covers C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards<br>There is also a Raspberry Pi Pico SDK with libraries and tools for C/C++ development on RP2040 controllers, and an alternative  Pico SDK supporting a MicroPython environment.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"Raspberry Pi Pico": "raspberry-pi/raspberry-pi-pico/raspberry-pi-32bit-arm-cortex/dp/3643332",
+				"Raspberry Pi Pico W board": "raspberry-pi/raspberry-pi-pico-w/raspberry-pi-board-arm-cortex/dp/3996082"
+			}
+		},
+		{
+			"TITLE": "Lubricants, Greases & Cutting Fluids",
+			"TITLE_LINK": "c/chemicals-adhesives/lubricants-greases-cutting-fluids",
+			"CONTENT": "Dry film products for food, paper, textile, plastics manufacturing and automotive. Cutting fluids and compounds, fluids to lubricate, penetrate, expel moisture and prevent corrosion. Contact cleaners, lubricants and conductive grease for electrical assemblies and contacts. Greases for extreme mechanical loads, vacuum, extreme temperatures, locks and assembly work.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"locks": "c/security/access-control/locks-accessories"
+			}
+		},
+		{
+			"TITLE": "Monochrome",
+			"TITLE_LINK": "c/security/video-surveillance/cameras/monochrome",
+			"CONTENT": "Monochrome waterproof and bullet-proof cameras. Miniature monochrome cameras with 1/3” CCDs, ideal for covert operations. High resolution, high sensitivity monochrome cameras for monitoring systems, which accept C or CS mount lenses.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"cameras": "c/security/video-surveillance/cameras",
+				"lenses": "c/security/video-surveillance/lens"
+			}
+		},
+		{
+			"TITLE": "Padlocks",
+			"TITLE_LINK": "c/security/access-control/locks-accessories/padlocks",
+			"CONTENT": "Padlocks with hardened steel shafts and double bolted mechanism for extra attack protection, and solid brass body for improved corrosion resistance. Disk, long shackle and harsh environment versions. Colour-coded padlocks for industrial power supply isolation. Brass and aluminium combination padlocks. Padlocks and adaptors for motor starters. Hasps and staples.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"motor starters": "c/automation-process-control/motors-motor-controls/motor-starters"
+			}
+		},
+		{
+			"TITLE": "Paints & Coatings",
+			"TITLE_LINK": "c/chemicals-adhesives/paints-coatings",
+			"CONTENT": "Silver conductive paint. Solder masking agents. Silicone paste for heat transfer. Nickel and silver conductive pens, screening compounds, encapsulants, protective varnishes, electronics PCB conformal coatings and thinners, multi-surface marker pens and paints, adhesive primers, matt and gloss paints, mould protection and release agents, mould liquid, metal-to-metal lubricants, corrosion/rustproofing and removal.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"adhesive": "c/chemicals-adhesives/adhesives-glues"
+			}
+		},
+		{
+			"TITLE": "Photoelectric/Infrared",
+			"TITLE_LINK": "c/security/intrusion-detection/detectors-sensors/photoelectric-infrared",
+			"CONTENT": "Small inconspicuous PIR motion sensors with built-in amplifiers for energy saving in home appliances, amusement machines, vending machines and lighting installations. Choice of black or white lenses to best match equipment colour. External dual element PIR sensors with autoswitching and LED movement indication.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"amplifiers": "c/semiconductors-ics/amplifiers-comparators"
+			}
+		},
+		{
+			"TITLE": "PIR – Wired",
+			"TITLE_LINK": "c/security/intrusion-detection/detectors-sensors/pir-wired",
+			"CONTENT": "PIR motion sensors that are resistant to compromise and ideal for residential and light commercial applications. Recessed units and 180° weatherproof PIR light controllers. Heavy-duty wall sensors and switches with choice of colours. PIR/Ultrasonic detectors with auto-adjustment and dual-element PIR detectors with advanced temperature compensation. Miniature photocell detectors.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"switches": "c/switches-relays/switches"
+			}
+		},
+		{
+			"TITLE": "Linear Power Supplies",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/linear-power-supplies",
+			"CONTENT": "Wide voltage input range chassis, enclosed, DIN rail mounting and UL94V0 encapsulated PCB-mounting models. Wide operating temperature ranges, adjustable output voltages, protections and remote sense. Medical approval and EN60950 compliance products available. Single or multiple, fixed or variable voltage outputs. Power supplies with safety transformer functions. Remote programming, current-sharing models.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"safety": "c/automation-process-control/industrial-switches-control-stations/safety-switches"
+			}
+		},
+		{
+			"TITLE": "Power Supplies - Uninterruptible (UPS)",
+			"TITLE_LINK": "c/power-line-protection/power-supplies/ups-uninterruptible-power-supplies",
+			"CONTENT": "Compact AC and DC-input DIN-rail units providing adjustable 24VDC outputs and status signals. Line-interactive UPSs with rechargeable batteries that maintain uninterrupted power to critical loads via multiple output sockets during mains failures; they also protect from mains undervoltage and overvoltage. Local displays and PC-based monitoring software provided. Rack-mounting units available.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"software": "c/automation-process-control/process-controllers-programmers-indicators/software-starter-kits"
+			}
+		},
+		{
+			"TITLE": "Tin Plating",
+			"TITLE_LINK": "c/chemicals-adhesives/tin-plating",
+			"CONTENT": "Cold chemical tin plating solution in bottles for PCBs, powders to make immerse tin solutions for plating a smooth even surface of tin on copper circuits at room temperature, tinning salt for PCBs.",
+			"HYPERLINK?": false
+		},
+		{
+			"TITLE": "Torches",
+			"TITLE_LINK": "c/electrical/torches",
+			"CONTENT": "Hands-free LED head torches, keyring torches, compact torches for potentially explosive atmosphere use. Adjustable Maglites, pocket torches, inspection lights, right-angle torches, magnetic tool-attachable and flexible neck LED lamps, high brightness types. Laser pointers and penlights, dynamo, rechargeable, rugged and submersible torches. Lanterns, floodlights, searchlights, grip lights and helmet clips.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"lights": "c/development-boards-evaluation-tools/lighting-led-development-kits"
+			}
+		},
+		{
+			"TITLE": "Flashlights",
+			"TITLE_LINK": "c/electrical/flashlights",
+			"CONTENT": "Hands-free LED head torches, keyring torches, compact torches for potentially explosive atmosphere use. Adjustable Maglites, pocket torches, inspection lights, right-angle torches, magnetic tool-attachable and flexible neck LED lamps, high brightness types. Laser pointers and penlights, dynamo, rechargeable, rugged and submersible torches. Lanterns, floodlights, searchlights, grip lights and helmet clips.",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"lights": "c/development-boards-evaluation-tools/lighting-led-development-kits"
+			}
+		}		
+	]
+}

@@ -1,0 +1,410 @@
+{
+	"name": "Zero Result Page Content ",
+	"description": "To validate Zero Result Page Component ",
+	"ZeroResultPageComponent": {
+		"UK": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 GBP",
+			"RequestAQuoteButton": "Request a quote (min £500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-DE": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 €",
+			"RequestAQuoteButton": "Request a quote (min 500 €)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-FR": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 €",
+			"RequestAQuoteButton": "Request a quote (min 500 €)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"fr": {
+			"LeftComponentHeader": "Besoin d'un numéro de pièce spécifique ?",
+			"LeftComponentContent": "Numéro de référence du fabricant d'approvisionnement pour la marque disponible auprès de Farnell.!Objet non trouvé via le moteur de recherche Farnell.!Demander un devis spécial, valeur de ligne minimale 500 €",
+			"RequestAQuoteButton": "Demander un devis (minimum 500 €)",
+			"RightComponentHeader": "Pièce personnalisée ou remplacement EOL ?",
+			"RightComponentContent": "Les projets qui incluent des composants en fin de vie/obsolètes!Difficile de trouver des pièces!Vous recherchez une spécification personnalisée!Essayez nos services de personnalisation",
+			"EnquireNowButton": "Renseignez-vous maintenant"
+		},
+		"de": {
+			"LeftComponentHeader": "Sie benötigen eine bestimmte Teilenummer?",
+			"LeftComponentContent": "Sourcing-Hersteller-Teilenummer für die Marke, die bei Farnell erhältlich ist.!Artikel wurde über die Farnell-Suchmaschine nicht gefunden.!Fordern Sie ein Sonderangebot an, Mindestzeilenwert 500 €",
+			"RequestAQuoteButton": "Fordern Sie ein Angebot an (mindestens 500 €)",
+			"RightComponentHeader": "Benutzerdefiniertes Teil oder EOL-Ersatz?",
+			"RightComponentContent": "Projekte, die End-of-Life-/Obsolete-Komponenten enthalten!Schwer zu findende Teile!Auf der Suche nach einer kundenspezifischen Spezifikation!Probieren Sie unsere Anpassungsdienste aus",
+			"EnquireNowButton": "Jetzt anfragen"
+
+		},
+		"tr": {
+			"LeftComponentHeader": "Belirli bir parça numarasına mı ihtiyacınız var?",
+			"LeftComponentContent": "Marka için kaynak üretici parça numarası Farnell'den edinilebilir.!Ürün, Farnell arama motoru aracılığıyla bulunamadı.!Özel fiyat teklifi isteyin, Minimum satır değeri 500 Lira",
+			"RequestAQuoteButton": "Fiyat teklifi isteyin (en az 500 Lira)",
+			"RightComponentHeader": "Özel Parça mı yoksa EOL Değişimi mi?",
+			"RightComponentContent": "Kullanım Ömrü Sonu / Eski bileşenler içeren projeler!Bulunması zor parçalar!Özel yapım spesifikasyon arıyorum!Özelleştirme Hizmetlerimizi Deneyin",
+			"EnquireNowButton": "Şimdi Sorgula"
+		},
+		"bg": {
+
+			"LeftComponentHeader": "Нуждаете се от конкретен номер на част?",
+			"LeftComponentContent": "Намиране на номер на частта на производителя за марка, налична от Farnell.!Артикулът не е намерен чрез търсачката на Farnell.!Заявка за специална оферта, Минимална стойност на линията 500 лева",
+			"RequestAQuoteButton": "Заявка за оферта (минимум 500 лева)",
+			"RightComponentHeader": "Персонализирана част или замяна на изчерпани продукти?",
+			"RightComponentContent": "Проекти, които включват компоненти с изтекъл срок на годност / остарели компоненти!Трудни за намиране части!Търси се спецификация, изградена по поръчка!Опитайте нашите услуги за персонализиране",
+			"EnquireNowButton": "Поискайте сега"
+		},
+		"cz": {
+			"LeftComponentHeader": "Potřebujete konkrétní číslo dílu?",
+			"LeftComponentContent": "Číslo dílu výrobce pro značku, která je k dispozici u společnosti Farnell.!Položka nebyla prostřednictvím vyhledávače Farnell nalezena.!Vyžádejte si speciální nabídku, minimální hodnota položky 500 Kč.",
+			"RequestAQuoteButton": "Vyžádejte si nabídku (minimálně 500 Kč)",
+			"RightComponentHeader": "Vlastní díl nebo náhrada po vyřazení?",
+			"RightComponentContent": "Projekty, které zahrnují komponenty s ukončenou životností / zastaralé komponenty!Obtížně dostupné díly!Hledáte specifikaci sestavenou na zakázku!Vyzkoušejte naše služby přizpůsobení",
+			"EnquireNowButton": "Poptejte nyní"
+		},
+		"dk": {
+			"LeftComponentHeader": "Har du brug for et specifikt varenummer?",
+			"LeftComponentContent": "Indkøb af producentens varenummer for mærke tilgængelig fra Farnell.!Varen blev ikke fundet via Farnells søgemaskine.!Anmod om særligt tilbud, minimum linjeværdi 500 kr.",
+			"RequestAQuoteButton": "Anmod om et tilbud (minimum 500 kr.)",
+			"RightComponentHeader": "Brugerdefineret del eller EOL udskiftning?",
+			"RightComponentContent": "Projekter, der inkluderer udgåede / Forældede komponenter!Svært at finde dele!Leder efter specialbyggede specifikationer!Prøv vores tilpasningstjenester",
+			"EnquireNowButton": "Spørg nu"
+		},
+		"es": {
+			"LeftComponentHeader": "¿Necesita una referencia de fabricante específica?",
+			"LeftComponentContent": "Farnell dispone de un servicio para obtener la referencia del fabricante.!No se ha encontrado el producto a través del motor de búsqueda de Farnell.!Solicite una cotización especial, valor mínimo de la línea €500",
+			"RequestAQuoteButton": "Solicite una cotización (mínimo €500)",
+			"RightComponentHeader": "¿Producto a medida o recambio para producto que llega al final de su vida útil?",
+			"RightComponentContent": "Proyectos que incluyen componentes obsoletos o que llegan al final de su vida útil!Productos difíciles de encontrar!Busca una especificación a medida!Pruebe nuestros servicios de personalización",
+			"EnquireNowButton": "Solicite información"
+		},
+		"ee": {
+			"LeftComponentHeader": "Kas vajate konkreetset osanumbrit?",
+			"LeftComponentContent": "Farnellist on saadaval kaubamärgi tootjatehase osanumber.!Toodet ei leitud Farnelli otsingumootori abil.!Taotlege spetsiaalset hinnapakkumist, minimaalne väärtus €500",
+			"RequestAQuoteButton": "Taotlege hinnapakkumist (minimaalselt €500)",
+			"RightComponentHeader": "Kohandatud osa või elutsükli lõpus oleva osa asendus?",
+			"RightComponentContent": "Projektid, mis sisaldavad elutsükli lõpu / aegunud komponente!Kas osa on keeruline leida?!Kas otsite eritellimusel tehtud lahendust?!Proovige meie kohandamisteenust",
+			"EnquireNowButton": "Esitage päring kohe"
+		},
+		"fi": {
+			"LeftComponentHeader": "Tarvitsetko erityisen osanumeron?",
+			"LeftComponentContent": "Valmistajan osanumeron hankkiminen tuotemerkille, joka on saatavilla Farnellilta.!Tuotetta ei löydy Farnellin hakukoneella.!Pyydä erikoistarjous, Vähimmäisrivin arvo €500",
+			"RequestAQuoteButton": "Pyydä tarjous (vähintään €500)",
+			"RightComponentHeader": "Mukautettu osa tai EOL-korvaus?",
+			"RightComponentContent": "Hankkeet, jotka sisältävät käytöstä poistettuja / vanhentuneita komponentteja.!Vaikeasti löydettävät osat!Etsitkö räätälöityä eritelmää!Kokeile räätälöintipalveluita",
+			"EnquireNowButton": "Kysy nyt"
+		},
+		"hu": {
+			"LeftComponentHeader": "Egy bizonyos cikkszámra van szüksége?",
+			"LeftComponentContent": "A gyártói cikkszám beszerzése a Farnellnél elérhető márkához.!A cikket a Farnell keresőmotorja nem találta.!Kérjen különleges árajánlatot; minimális alapérték 500 Ft.",
+			"RequestAQuoteButton": "Kérjen árajánlatot (minimum 500 Ft)",
+			"RightComponentHeader": "Egyedi alkatrész vagy életciklusvégi csere?",
+			"RightComponentContent": "Olyan projektek, amelyek tartalmaznak életciklusvégi/elavult komponenseket!Nehezen fellelhető alkatrészek!Rendelésre készült specifikációt keres?!Próbálja ki személyre szabási szolgáltatásainkat",
+			"EnquireNowButton": "Kérdezzen most"
+		},
+		"it": {
+			"LeftComponentHeader": "Serve un codice articolo specifico?",
+			"LeftComponentContent": "Trova il codice articolo del produttore per il marchio disponibile presso Farnell.!Il motore di ricerca Farnell non ha trovato l’articolo.!Richiedi un preventivo speciale, Valore minimo della linea €500.",
+			"RequestAQuoteButton": "Richiedi una quotazione (minimo €500)",
+			"RightComponentHeader": "Parte personalizzata o sostituzione EOL?",
+			"RightComponentContent": "Progetti che includono componenti a fine vita od obsoleti!Pezzi difficili da trovare!Cerchi specifiche personalizzate?!Prova i nostri servizi di personalizzazione",
+			"EnquireNowButton": "Richiedi ora"
+		},
+		"lt": {
+			"LeftComponentHeader": "Reikia konkrečios dalies numerio?",
+			"LeftComponentContent": "Gamintojo dalies numerį galima įsigyti iš „Farnell“.!Naudojant „Farnell“ paieškos variklį, elementas nerastas.!Prašyti specialios kainos pasiūlymo, minimali eilutės vertė €500",
+			"RequestAQuoteButton": "Prašyti specialios kainos (minimali vertė €500)",
+			"RightComponentHeader": "Individualizuota dalis arba pasenusio komponento keitimas?",
+			"RightComponentContent": "Projektai, kuriuose yra eksploatavimo pabaigos sulaukusių / pasenusių komponentų!Dalys, kurias sudėtinga rasti!Ieškau pagal užsakymą pagamintos specifikacijos!Išbandykite mūsų individualizavimo paslaugas",
+			"EnquireNowButton": "Teiraukitės dabar"
+		},
+		"lv": {
+			"LeftComponentHeader": "Vai nepieciešams konkrētas daļas numurs?",
+			"LeftComponentContent": "Meklējiet ražotāja detaļas numuru zīmolam, kas pieejams uzņēmumā Farnell.!Farnell meklēšanas programmā prece netika atrasta.!Pieprasīt īpašu piedāvājumu, minimālā pozīcijas vērtība €500",
+			"RequestAQuoteButton": "Pieprasīt piedāvājumu (minimālā summa €500)",
+			"RightComponentHeader": "Vai meklējat pielāgotu detaļu vai maiņas komponentu izmantošanas laika beigās?",
+			"RightComponentContent": "Projekti, kuros iekļauti nokalpojuši/novecojuši komponenti!Grūti atrodamas detaļas!Vai meklējat pielāgotu specifikāciju?!Izmēģiniet mūsu pielāgošanas pakalpojumus",
+			"EnquireNowButton": "Pieprasīt tagad"
+		},
+		"no": {
+			"LeftComponentHeader": "Trenger du et spesifikt delnummer?",
+			"LeftComponentContent": "Kildeprodusentens delenummer for varemerke tilgjengelig fra Farnell.!Vare ikke funnet via Farnells søkemotor.!Anmod om spesialtilbud, Minimum linjeverdi 500 kr.",
+			"RequestAQuoteButton": "Be om et pristilbud (minimum 500 kr.)",
+			"RightComponentHeader": "Tilpasset del eller erstatning av utgått vare?",
+			"RightComponentContent": "Prosjekter som omfatter utgåtte/ukurante komponenter!Deler som er vanskelige å finne!På jakt etter spesialbygde spesifikasjoner!Prøv tilpasningstjenestene våre",
+			"EnquireNowButton": "Spør nå"
+		},
+		"nl": {
+			"LeftComponentHeader": "Hebt u een specifiek onderdeelnummer nodig?",
+			"LeftComponentContent": "Fabrieksonderdeelnummer voor merk verkrijgbaar bij Farnell.!Item niet gevonden via Farnell-zoekmachine.!Speciale offerte aanvragen, minimale regelwaarde €500.",
+			"RequestAQuoteButton": "Vraag een offerte aan (minimum €500)",
+			"RightComponentHeader": "Aangepast onderdeel of EOL-vervanging?",
+			"RightComponentContent": "Projecten die End of Life / Verouderde componenten bevatten!Moeilijk te vinden onderdelen!Behoefte aan maatwerk-specificaties!Probeer onze Maatwerkdiensten",
+			"EnquireNowButton": "Vraag er nu naar"
+		},
+		"po": {
+			"LeftComponentHeader": "Potrzebujesz konkretnego numeru części?",
+			"LeftComponentContent": "Wyszukaj numer części producenta dla marki dostępnej w Farnell.!Pozycja nie została znaleziona w wyszukiwarce Farnell.!Poproś o specjalną wycenę; minimalna wartość linii: 500 zł.",
+			"RequestAQuoteButton": "Poproś o wycenę (minimum 500 zł)",
+			"RightComponentHeader": "Część niestandardowa lub zamiennik z końcówki serii (EOL)?",
+			"RightComponentContent": "Projekty obejmujące komponenty wycofane z eksploatacji / przestarzałe!Części trudne do znalezienia!Szukasz niestandardowej specyfikacji?!Wypróbuj nasze usługi dostosowywania",
+			"EnquireNowButton": "Zapytaj teraz"
+		},
+		"pt": {
+			"LeftComponentHeader": "Precisa de um número de peça específico?",
+			"LeftComponentContent": "Está disponível na Farnell o número de peça do fabricante para a marca.!Artigo não encontrado através do motor de pesquisa da Farnell.!Solicitar cotação especial, Valor mínimo de linha €500.",
+			"RequestAQuoteButton": "Pedir uma cotação (mínimo €500)",
+			"RightComponentHeader": "Peça Personalizada ou Substituição em EOL (fim de vida, na sigla em inglês)?",
+			"RightComponentContent": "Projetos que incluem componentes Obsoletos / em Fim de Vida!Peças difíceis de encontrar!Procurar especificações de construção personalizada!Experimente os nossos Serviços de Personalização!",
+			"EnquireNowButton": "Informe-se Agora"
+		},
+		"ro": {
+			"LeftComponentHeader": "Aveți nevoie de un anumit număr de piesă?",
+			"LeftComponentContent": "Se caută numărul de piesă al producătorului pentru o marcă disponibilă la Farnell.!Articolul nu a fost găsit prin motorul de căutare Farnell.!Solicitați o ofertă specială, valoarea minimă a liniei 500 lei.",
+			"RequestAQuoteButton": "Solicitați o ofertă (minimum 500 lei)",
+			"RightComponentHeader": "Piesă personalizată sau înlocuire la finalul ciclului de viață?",
+			"RightComponentContent": "Proiecte care includ componente aflate la finalul ciclului de viață/învechite!Piese greu de găsit!Se caută o specificație personalizată!Încercați serviciile noastre de personalizare",
+			"EnquireNowButton": "Întrebați acum"
+		},
+		"ru": {
+			"LeftComponentHeader": "Нужен конкретный артикул?",
+			"LeftComponentContent": "Поиск артикула производителя для марки, доступной в Farnell.!Товар через поисковую систему Farnell не найден.!Запрос специального предложения, минимальная стоимость линии 500 рублей",
+			"RequestAQuoteButton": "Запрос коммерческого предложения (минимум 500 рублей)",
+			"RightComponentHeader": "Нестандартная деталь или замена по окончании срока службы?",
+			"RightComponentContent": "Проекты, включающие компоненты с истекшим сроком службы / устаревшие компоненты!Сложности с поиском запчастей!Поиск спецификации по индивидуальному заказу!Попробуйте наши услуги по индивидуальному заказу",
+			"EnquireNowButton": "Запросить сейчас"
+		},
+		"si": {
+			"LeftComponentHeader": "Potrebujete določeno številko dela?",
+			"LeftComponentContent": "Številka dela oskrbovalnega proizvajalca za blagovno znamko, ki je na voljo pri Farnellu!Postavka ni bila najdena prek Farnellovega iskalnika.!Zahtevajte posebno ponudbo, minimalna vrednost vrstice €500.",
+			"RequestAQuoteButton": "Zahtevajte ponudbo (najmanj v vrednosti €500)",
+			"RightComponentHeader": "Del po meri ali menjava ob koncu življenjske dobe?",
+			"RightComponentContent": "Projekti, ki vsebujejo komponente na koncu življenjske dobe / zastarele komponente!Deli, ki jih je težko najti!Iščete specifikacijo, izdelano po naročilu?!Poskusite z našimi storitvami prilagajanja po meri.",
+			"EnquireNowButton": "Pošljite povpraševanje zdaj"
+		},
+		"sk": {
+			"LeftComponentHeader": "Potrebujete zistiť konkrétne číslo dielu?",
+			"LeftComponentContent": "Získajte číslo dielu výrobcu pre značku dostupnú v ponuke spoločnosti Farnell.!Vyhľadávací nástroj spoločnosti Farnell danú položku nenašiel.!Požiadajte o špeciálnu cenovú ponuku, minimálna hodnota riadkovej položky €500.",
+			"RequestAQuoteButton": "Požiadajte o cenovú ponuku (minimálne €500)",
+			"RightComponentHeader": "Výmena vlastných dielov alebo dielov na konci životného cyklu?",
+			"RightComponentContent": "Projekty obsahujúce komponenty na konci životného cyklu/zastarané komponenty!Ťažko dostupné diely!Hľadajte špecifické produkty na mieru!Vyskúšajte si naše služby prispôsobenia",
+			"EnquireNowButton": "Pošlite nám otázku"
+		},
+		"se": {
+			"LeftComponentHeader": "Behöver du ett specifikt artikelnummer?",
+			"LeftComponentContent": "Sök tillverkarens artikelnummer för märke som finns tillgängligt hos Farnell.!Artikeln hittades inte via Farnells sökmotor.!Begär ett specialerbjudande, minsta värde 500 kr.",
+			"RequestAQuoteButton": "Begär en offert (minst 500 kr)",
+			"RightComponentHeader": "Anpassad del eller EOL-ersättning?",
+			"RightComponentContent": "Projekt som omfattar komponenter som är uttjänta/föråldrade!Svårt att hitta delar!Söker en specialtillverkad specifikation!Prova våra skräddarsydda tjänster",
+			"EnquireNowButton": "Fråga nu"
+		},
+		"at": {
+
+			"LeftComponentHeader": "Sie benötigen eine bestimmte Teilenummer?",
+			"LeftComponentContent": "Sourcing-Hersteller-Teilenummer für die Marke, die bei Farnell erhältlich ist.!Artikel wurde über die Farnell-Suchmaschine nicht gefunden.!Fordern Sie ein Sonderangebot an, Mindestzeilenwert €500",
+			"RequestAQuoteButton": "Fordern Sie ein Angebot an (mindestens €500)",
+			"RightComponentHeader": "Benutzerdefiniertes Teil oder EOL-Ersatz?",
+			"RightComponentContent": "Projekte, die End-of-Life-/Obsolete-Komponenten enthalten!Schwer zu findende Teile!Auf der Suche nach einer kundenspezifischen Spezifikation!Probieren Sie unsere Anpassungsdienste aus",
+			"EnquireNowButton": "Jetzt anfragen"
+
+		},
+		"de-CH": {
+			"LeftComponentHeader": "Sie benötigen eine bestimmte Teilenummer?",
+			"LeftComponentContent": "Sourcing-Hersteller-Teilenummer für die Marke, die bei Farnell erhältlich ist.!Artikel wurde über die Farnell-Suchmaschine nicht gefunden.!Fordern Sie ein Sonderangebot an, Mindestzeilenwert CHF 500",
+			"RequestAQuoteButton": "Fordern Sie ein Angebot an (mindestens CHF 500)",
+			"RightComponentHeader": "Benutzerdefiniertes Teil oder EOL-Ersatz?",
+			"RightComponentContent": "Projekte, die End-of-Life-/Obsolete-Komponenten enthalten!Schwer zu findende Teile!Auf der Suche nach einer kundenspezifischen Spezifikation!Probieren Sie unsere Anpassungsdienste aus",
+			"EnquireNowButton": "Jetzt anfragen"
+		},
+		"ie": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"il": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value US$500",
+			"RequestAQuoteButton": "Request a quote (min US$500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"pl": {
+			"LeftComponentHeader": "Potrzebujesz konkretnego numeru części?",
+			"LeftComponentContent": "Wyszukaj numer części producenta dla marki dostępnej w Farnell.!Pozycja nie została znaleziona w wyszukiwarce Farnell.!Poproś o specjalną wycenę; minimalna wartość linii: 500 zł.",
+			"RequestAQuoteButton": "Poproś o wycenę (minimum 500 zł)",
+			"RightComponentHeader": "Część niestandardowa lub zamiennik z końcówki serii (EOL)?",
+			"RightComponentContent": "Projekty obejmujące komponenty wycofane z eksploatacji / przestarzałe!Części trudne do znalezienia!Szukasz niestandardowej specyfikacji?!Wypróbuj nasze usługi dostosowywania",
+			"EnquireNowButton": "Zapytaj teraz"
+		},
+		"nl-BE": {
+			"LeftComponentHeader": "Hebt u een specifiek onderdeelnummer nodig?",
+			"LeftComponentContent": "Fabrieksonderdeelnummer voor merk verkrijgbaar bij Farnell.!Item niet gevonden via Farnell-zoekmachine.!Speciale offerte aanvragen, minimale regelwaarde €500.",
+			"RequestAQuoteButton": "Vraag een offerte aan (minimum €500)",
+			"RightComponentHeader": "Aangepast onderdeel of EOL-vervanging?",
+			"RightComponentContent": "Projecten die End of Life / Verouderde componenten bevatten!Moeilijk te vinden onderdelen!Behoefte aan maatwerk-specificaties!Probeer onze Maatwerkdiensten",
+			"EnquireNowButton": "Vraag er nu naar"
+		},
+		"en-ES": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-NL": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-PT": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-IT": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-FI": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-SK": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-Ta": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 €",
+			"RequestAQuoteButton": "Request a quote (min 500 €)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-CH": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value CHF 500",
+			"RequestAQuoteButton": "Request a quote (min CHF 500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-BE": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-DK": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 kr",
+			"RequestAQuoteButton": "Request a quote (min 500 kr)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-SE": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 kr",
+			"RequestAQuoteButton": "Request a quote (min 500 kr)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-NO": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 kr",
+			"RequestAQuoteButton": "Request a quote (min 500 kr)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-PL": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value 500 zł",
+			"RequestAQuoteButton": "Request a quote (min 500 zł)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-CZ": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value Kč500",
+			"RequestAQuoteButton": "Request a quote (min Kč500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-HU": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value Ft500",
+			"RequestAQuoteButton": "Request a quote (min Ft500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"en-RO": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value lei500",
+			"RequestAQuoteButton": "Request a quote (min lei500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		},
+		"fr-CH": {
+			"LeftComponentHeader": "Besoin d'un numéro de pièce spécifique ?",
+			"LeftComponentContent": "Numéro de référence du fabricant d'approvisionnement pour la marque disponible auprès de Farnell.!Objet non trouvé via le moteur de recherche Farnell.!Demander un devis spécial, valeur de ligne minimale CHF 500",
+			"RequestAQuoteButton": "Demander un devis (minimum CHF 500)",
+			"RightComponentHeader": "Pièce personnalisée ou remplacement EOL ?",
+			"RightComponentContent": "Les projets qui incluent des composants en fin de vie/obsolètes!Difficile de trouver des pièces!Vous recherchez une spécification personnalisée!Essayez nos services de personnalisation",
+			"EnquireNowButton": "Renseignez-vous maintenant"
+		},
+		"fr-BE": {
+			"LeftComponentHeader": "Besoin d'un numéro de pièce spécifique ?",
+			"LeftComponentContent": "Numéro de référence du fabricant d'approvisionnement pour la marque disponible auprès de Farnell.!Objet non trouvé via le moteur de recherche Farnell.!Demander un devis spécial, valeur de ligne minimale €500",
+			"RequestAQuoteButton": "Demander un devis (minimum €500)",
+			"RightComponentHeader": "Pièce personnalisée ou remplacement EOL ?",
+			"RightComponentContent": "Les projets qui incluent des composants en fin de vie/obsolètes!Difficile de trouver des pièces!Vous recherchez une spécification personnalisée!Essayez nos services de personnalisation",
+			"EnquireNowButton": "Renseignez-vous maintenant"
+		},
+		"en-AT": {
+			"LeftComponentHeader": "Need a specific part number?",
+			"LeftComponentContent": "Sourcing Manufacturer Part Number for brand available from Farnell!Currently not offered item via Farnell web search!Request special quote, Minimum Line Value €500",
+			"RequestAQuoteButton": "Request a quote (min €500)",
+			"RightComponentHeader": "Custom Part or EOL Replacement?",
+			"RightComponentContent": "Projects that include End of Life / Obsolete components!Difficult to find parts!Looking for a custom built specification!Try our Customisation Services",
+			"EnquireNowButton": "Enquire now"
+		}
+	}
+}

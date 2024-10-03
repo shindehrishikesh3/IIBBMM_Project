@@ -1,0 +1,63 @@
+{
+	"name": "most commonly used urls",
+	"description": "URLs for the most commonly used pages in the website by guest users",
+	"urls": {
+		"uk": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Details-Page": "on-semiconductor/bav99wt1g/diode-small-signal-750ma/dp/1651159",
+			"Product-Lister-Leaf-L1": "c/crystals-oscillators/crystals",
+			"Product-Lister-Leaf-L2": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"Category-Node-L1": "c/passive-components/resistors-fixed-value"
+		},
+		"sg": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Details-Page": "on-semiconductor/bav99wt1g/diode-small-signal-750ma/dp/1651159",
+			"Product-Lister-Leaf-L1": "c/crystals-oscillators/crystals",
+			"Product-Lister-Leaf-L2": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"Category-Node-L1": "c/passive-components/resistors-fixed-value"
+		},
+		"au": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Details-Page": "on-semiconductor/bav99wt1g/diode-small-signal-750ma/dp/1651159",
+			"Product-Lister-Leaf-L1": "c/crystals-oscillators/crystals",
+			"Product-Lister-Leaf-L2": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"Category-Node-L1": "c/passive-components/resistors-fixed-value"
+		},
+		"us": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Details-Page": "on-semiconductor/bav99lt1g/small-signal-diode-dual-series/dp/58M3990",
+			"Product-Lister-Leaf-L1": "c/crystals-oscillators/crystals",
+			"Product-Lister-Leaf-L2": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"Category-Node-L1": "c/passive-components/resistors-fixed-value"
+		},
+		"cpc": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Lister-Leaf-L1": "/c/electronic-electrical-components/crystals-oscillators/crystals"
+		},
+		"ie": {
+			"homepage": "",
+			"browse-for-products": "browse-for-products",
+			"Product-Lister-Node": "c/passive-components/capacitors/prl/results",
+			"Category-Node-L1-1": "c/passive-components/capacitors",
+			"Product-Details-Page": "on-semiconductor/bav99wt1g/diode-small-signal-750ma/dp/1651159",
+			"Product-Lister-Leaf-L1": "c/crystals-oscillators/crystals",
+			"Product-Lister-Leaf-L2": "c/passive-components/resistors-fixed-value/through-hole-resistors",
+			"Category-Node-L1": "c/passive-components/resistors-fixed-value"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"name": "IBuy new user details",
+	"description": "Details to be filled while creating new iBuy user",
+	"iBuyUserDetails": {
+		"SuperAdministrator": {
+			"UserRole": "Super Administrator",
+			"personTitle": "Mr",
+			"lastName": "IBuyUser",
+			"email": "test@yahoo.com",
+			"phoneNumber": "1234567899",
+			"username": "sa_",
+			"password": "Farnell@1234",
+			"approver": "Yes",
+			"primaryJob": "PF_PRIMARY_JOB_ROLE_ENGINEER_TEST",
+			"primaryUse": "PF_PRIMARY_USE_TEST_QUALITY_CONTROL"
+		},
+		"TierAdministrator": {
+			"UserRole":"Tier Administrator",
+			"personTitle":"Mr",
+			"lastName":"IBuyUser",
+			"email":"test@yahoo.com",
+			"phoneNumber":"1234567899",
+			"username":"ta_",
+			"password":"Farnell@1234",
+			"approver":"Yes",
+			"primaryJob":"PF_PRIMARY_JOB_ROLE_ENGINEER_TEST",
+			"primaryUse":"PF_PRIMARY_USE_TEST_QUALITY_CONTROL"
+		},
+		"User": {
+			"UserRole": "User",
+			"personTitle": "Mr",
+			"lastName": "IBuyUser",
+			"email": "test@yahoo.com",
+			"phoneNumber": "1234567899",
+			"username": "user_",
+			"password": "Farnell@1234",
+			"approver": "No",
+			"primaryJob": "PF_PRIMARY_JOB_ROLE_ENGINEER_TEST",
+			"primaryUse": "PF_PRIMARY_USE_TEST_QUALITY_CONTROL"
+		}
+
+	}
+}
+
+

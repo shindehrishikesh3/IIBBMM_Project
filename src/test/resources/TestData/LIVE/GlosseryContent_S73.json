@@ -1,0 +1,76 @@
+{
+  "HEADERS": [
+    {
+      "TITLE": "Multiplexing",
+      "TITLE_LINK": "multiplexing-definition",
+      "CONTENT": "Multiplexing<br>Multiplexing is a way of sending multiple signals or streams of information over a communications link in the form of a single, complex signal.<br>Multiplexing is used for two main reasons. The technique makes it possible for network devices to communicate with each other without having to dedicate a connection for each pair.<br>Secondly, it allows for a more efficient use of resources, especially when equipment is scarce or expensive, or on occasions where installing a new communications link would cause disruption. For example, being able to share cables between services in busy towns and cities keeps costs down for public administrators and minimise the disruption to the public while allowing homes and businesses to function and flourish.<br>Multiplexing works differently on the technology being used. Analogue radio transmissions are usually multiplexed using frequency-division multiplexing. This involves dividing the bandwidth on a communications link into subchannels of different frequency width. Each frequency carries a different signal.<br>Optical networks transmit signals on light waves. In these networks, signals are multiplexed by sending data for different communications channels on light waves of different wavelengths. This is called wavelength division multiplexing.<br>Digital networks use time division multiplexing, transmitting multiple signals over the same channel in alternating time slots.<br>Finally, code division multiplexing is widely used in digital television and radio broadcasting as well as 3G cellular networks. Code division multiplexing relies on assigning each separate signal an identifying code to distinguish between the various channels operating on the same medium.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "Multiplexing" : "c/semiconductors-ics/switches-multiplexers-demultiplexers/analogue-multiplexers-demultiplexers",
+          "network devices"  : "c/automation-process-control/network-control"
+       }
+    },
+	{
+      "TITLE": "Multiplexing (NEWARK)",
+      "TITLE_LINK": "multiplexing-definition",
+      "CONTENT": "Multiplexing<br>Multiplexing is a way of sending multiple signals or streams of information over a communications link in the form of a single, complex signal.<br>Multiplexing is used for two main reasons. The technique makes it possible for network devices to communicate with each other without having to dedicate a connection for each pair.<br>Secondly, it allows for a more efficient use of resources, especially when equipment is scarce or expensive, or on occasions where installing a new communications link would cause disruption. For example, being able to share cables between services in busy towns and cities keeps costs down for public administrators and minimise the disruption to the public while allowing homes and businesses to function and flourish.<br>Multiplexing works differently on the technology being used. Analogue radio transmissions are usually multiplexed using frequency-division multiplexing. This involves dividing the bandwidth on a communications link into subchannels of different frequency width. Each frequency carries a different signal.<br>Optical networks transmit signals on light waves. In these networks, signals are multiplexed by sending data for different communications channels on light waves of different wavelengths. This is called wavelength division multiplexing.<br>Digital networks use time division multiplexing, transmitting multiple signals over the same channel in alternating time slots.<br>Finally, code division multiplexing is widely used in digital television and radio broadcasting as well as 3G cellular networks. Code division multiplexing relies on assigning each separate signal an identifying code to distinguish between the various channels operating on the same medium.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "Multiplexing" : "c/semiconductors-ics/switches-multiplexers-demultiplexers/analog-multiplexers-demultiplexers",
+          "network devices"  : "c/automation-process-control/network-control"
+       }
+    },
+    {
+      "TITLE": "What is a Paired cable",
+      "TITLE_LINK" :"paired-cable-definition",
+      "CONTENT": "What is a Paired cable<br>A paired cable is a type of cable made by putting two separate insulated copper wires together in a twisted fashion and running them parallel to each other. By twisting the wires together electromagnetic induction can be reduced. Different types of paired cables can be made by varying the wire gauge for the inner conductors and the number of times the wires are twisted per inch.<br>This type of cable is widely used in various kinds of data and voice systems.<br>Paired cables also come in shielded and unshielded varieties. A shielded cable encases the wires in a conducting shield which provides extra protection from electromagnetic interference. By contrast, unshielded cables do not rely on a physical barrier to block interference. They instead rely on balancing and filtering techniques to cancel out the noise caused by electromagnetic induction.<br>Unshielded cables are generally easier to maintain than shielded ones. The quality of the signals transmitted along shielded cables can be compromised if the insulating foil becomes damaged or the cable is combined with improperly shielded connectors, hardware or outlets. Also, shielded cabling systems require good grounding and earthing practices to be in place to prevent emissions and interference. This problem is more pressing for longer cables as grounding can become ineffective at a certain length.<br>On the other hand, unshielded cables are relatively lightweight, thin and flexible. They have fewer vulnerabilities and are easier to install.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "paired cable" : "c/cable-wire-cable-assemblies",
+          "shielded cable"  : "c/cable-wire-cable-assemblies/multicore-cable?cable-shielding=shielded",
+		  "unshielded cables"  : "c/cable-wire-cable-assemblies/multipair-cable?cable-shielding=unshielded"
+       }
+    },
+    {
+      "TITLE": "What is a Paired cable (NEWARK)",
+      "TITLE_LINK" :"paired-cable-definition",
+      "CONTENT": "What is a Paired cable<br>A paired cable is a type of cable made by putting two separate insulated copper wires together in a twisted fashion and running them parallel to each other. By twisting the wires together electromagnetic induction can be reduced. Different types of paired cables can be made by varying the wire gauge for the inner conductors and the number of times the wires are twisted per inch.<br>This type of cable is widely used in various kinds of data and voice systems.<br>Paired cables also come in shielded and unshielded varieties. A shielded cable encases the wires in a conducting shield which provides extra protection from electromagnetic interference. By contrast, unshielded cables do not rely on a physical barrier to block interference. They instead rely on balancing and filtering techniques to cancel out the noise caused by electromagnetic induction.<br>Unshielded cables are generally easier to maintain than shielded ones. The quality of the signals transmitted along shielded cables can be compromised if the insulating foil becomes damaged or the cable is combined with improperly shielded connectors, hardware or outlets. Also, shielded cabling systems require good grounding and earthing practices to be in place to prevent emissions and interference. This problem is more pressing for longer cables as grounding can become ineffective at a certain length.<br>On the other hand, unshielded cables are relatively lightweight, thin and flexible. They have fewer vulnerabilities and are easier to install.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "paired cable" : "c/cable-wire-cable-assemblies",
+          "shielded cable"  : "c/cable-wire-cable-assemblies/multiconductor-cable?cable-shielding=shielded",
+		  "unshielded cables"  : "c/cable-wire-cable-assemblies/multipair-cable?cable-shielding=unshielded"
+       }
+    },	
+    {
+      "TITLE": "Quiescent Power Consumption",
+      "TITLE_LINK" :"quiescent-power-consumption-definition",
+      "CONTENT": "Quiescent Power Consumption<br>The quiescent current of a component or circuit is the current that it uses internally rather than supplying on to the load; it is the difference between input and output current, and should be kept as low as possible to maximise efficiency and promote a green footprint, as increased quiescent current means increased quiescent power consumption.<br>In semiconductor circuits, quiescent current consists of bias current such as band-gap reference, sampling resistor, and error amplifier currents, and the gate drive current of the series pass element, which do not contribute to output power. The value of quiescent current is mostly determined by the series pass element, topologies, ambient temperature, etc.<br>For bipolar transistors, the quiescent current increases proportionally with the output current, because the series pass element is a current-driven device. In addition, in the dropout region the quiescent current can increase due to the additional parasitic current path between the emitter and the base of the bipolar transistor, which is caused by a lower base voltage than that of the output voltage.<br>For MOS transistors, the quiescent current has a near constant value with respect to the load current since the device is a voltage-driven device. The only things that contribute to the quiescent current for MOS transistors are the biasing currents of band–gap, sampling resistor, and error amplifier.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "semiconductor circuits" : "c/semiconductors-ics",
+		  "bipolar transistors" : "c/semiconductors-discretes/transistors/bipolar-transistors",
+          "MOS transistors"  : "c/semiconductors-discretes/fets/single-mosfets"
+       }
+    },
+    {
+      "TITLE": "Rack and Panel Connector",
+      "TITLE_LINK": "rack-and-panel-connector-definition",
+      "CONTENT": "Rack and Panel Connector<br>Rack and panel connectors are usually square or rectangular in shape, and primarily designed to connect devices to equipment racks.<br>Examples of rack and panel connectors include Amphenol’s RNJ series, which are used to connect electrical and optical devices between a moving unit (rack) and a fixed unit (panel) without any coupling/uncoupling device. This function is implemented by a system of moving and fixed units. Such connectors meet or exceed the MIL-DTL-38999 Series 1 requirements, and are used for military and aeronautical applications, as well as demanding industrial environments.<br>These are durable components, with 500 cycle rating and moisture and corrosion resistance. Their temperature range is -65°C to +175°C. Versions are available to withstand 500 hours of salt spray exposure.<br>Specialised ARINC 600-compatible connectors are also available. These connectors provide low insertion force contacts, front removable keying posts, field replaceable inserts for size 22 and power contacts, and up to 800 size 22 contact positions in one connector. Crimp, coaxial, power, printed circuit and wire wrap connectors are available, as well as waveguide connections.<br>Rack and panel connectors from other suppliers are also available for a wide range of industry sectors. Well-designed products can be useful where space is at a premium in power, control and communications circuits within aircraft, portable equipment and instrumentation. They are also found in power distribution applications for many types of electronic equipment and systems.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "rack and panel connectors" : "c/connectors/rectangular-power-connectors-components",
+		  "power distribution" : "c/semiconductors-ics/power-management-ics-pmic/power-distribution-switches"
+       } 
+ },
+    {
+      "TITLE": "Sampling rate",
+      "TITLE_LINK": "sampling-rate-definition",
+      "CONTENT": "Sampling Rate<br>The sampling rate refers to the process of converting a continuous signal into discrete units of time. Whether recording sounds, capturing images or processing an electromagnetic wave, many sources of information are continuous or analogue in nature. Before digital devices can make sense of the such information, the data must be converted. This involves taking snapshots of the signal so that it can be manipulated and reassembled into a readable format. The speed at which these snapshots are taken - usually measured in seconds - is known as the sampling rate.<br>The conversion is performed by an analogue to digital converter. The converter turns physical information such as sound, light and temperature into a pattern of numbers that the computer can understand.<br>Sample rates are measured in Hertz (Hz). Higher sampling rates produce better quality media. In video, the sampling rate determines how often the light intensity of each video line is sampled. The sampling rate also determines the frame rate. A frame rate of 24 frames per second is required to prevent flickering.<br>In audio, most content has a sampling rate of 44.1 kilohertz, which is equivalent to the maximum bandwidth audible to most humans. However, a lower rate may be selected to reduce file size, conserve CPU usage or where the sound quality is unimportant.",
+      "HYPERLINK?": true,
+	  "LINKS": {
+          "analogue to digital converter" : "c/semiconductors-ics/data-signal-conversion/analog-to-digital-converters-adc"
+       }
+    }
+  ]
+}

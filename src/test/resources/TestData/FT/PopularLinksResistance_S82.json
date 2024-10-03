@@ -1,0 +1,87 @@
+{
+
+	"HEADERS": [
+		{
+			"TITLE": "0.1ohm",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+			"CONTENT": "1.5 ohm resistor, resistor 100k, 100ohm resistor, 10k resistor, 10m resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"1.5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+				"resistor 100k": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+				"100ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+				"10k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+				"10m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm"
+			}
+		},
+              {
+			"TITLE": "1.5 ohm resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+			"CONTENT": "0.1% resistor, resistor 100k, 100ohm resistor, 10k resistor, 10m resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"0.1% resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+				"resistor 100k": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+				"100ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+				"10k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+				"10m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm"
+			}
+		},
+
+              {
+			"TITLE": "resistor 100k",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+			"CONTENT": "0.1% resistor, 1.5 ohm resistor, 100ohm resistor, 10k resistor, 10m resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"0.1% resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+				"1.5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+				"100ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+				"10k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+				"10m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm"
+			}
+		},
+
+               {
+			"TITLE": "100ohm resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+			"CONTENT": "0.1% resistor, 1.5 ohm resistor, resistor 100k, 10k resistor, 10m resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"0.1% resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+				"1.5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+				"resistor 100k": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+				"10k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+				"10m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm"
+			}
+		},
+
+              {
+			"TITLE": "10k resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm",
+			"CONTENT": "0.1% resistor, 1.5 ohm resistor, resistor 100k, 100ohm resistor, 10m resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"0.1% resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+				"1.5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+				"resistor 100k": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+				"100ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+				"10m resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm"
+			}
+		},
+
+               {
+			"TITLE": "10m resistor",
+			"TITLE_LINK": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10mohm",
+			"CONTENT": "0.1% resistor, 1.5 ohm resistor, resistor 100k, 100ohm resistor, 10k resistor",
+			"HYPERLINK?": true,
+			"LINKS": {
+				"0.1% resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=0.1ohm",
+				"1.5 ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=1.5ohm",
+				"resistor 100k": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100kohm",
+				"100ohm resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=100ohm",
+				"10k resistor": "c/passive-components/resistors-fixed-value/through-hole-resistors?resistance=10kohm"
+			}
+		}
+	]
+}
